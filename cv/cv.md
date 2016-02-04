@@ -5,8 +5,7 @@ firstname: Kim
 lastname: Rutherford
 homepage: http://kimrutherford.github.io
 email: kmr@aska.gen.nz
-mobile: '+1 (234) 567 890'
-phone: '+2 (345) 678 901'
+mobile: '+64 212508293'
 fax: '+3 (456) 789 012'
 address:
   city: Dunedin
@@ -24,8 +23,7 @@ footer: |
 Profile
 -------
 
-Genome analysis, bioinformatics and software development.
-
+Bioinformatics, genomics and programming.
 
 Education
 ---------
@@ -51,7 +49,7 @@ Work experience
 
 
 June 2010 – Present
-:    **Programmer** *Schizosaccharomyces pombe genome database (PomBase)** \
+:    **Programmer** *Schizosaccharomyces pombe genome database (PomBase)* \
      Department of Biochemistry, University of Cambridge
 
 Feb 2009 – June 2010
@@ -80,55 +78,61 @@ Selected publications
 
 Oct 2000
 :    **Artemis: sequence visualisation and annotation.** \
+     K. Rutherford, J. Parkhill, J. Crook, T. Horsnell, P. Rice, M-A. Rajandream and B. Barrell \
      *Bioinformatics. 2000 Oct;16(10):944-5.*
-     K. Rutherford, J. Parkhill, J. Crook, T. Horsnell, P. Rice, M-A. Rajandream and B. Barrell
 
 Oct 2001
 :    **Genome sequence of Yersinia pestis, the causative agent of plague.** \
+     J. Parkhill et al. \
      *Nature. 2001 Oct 4;413(6855):523-7.*
-     J. Parkhill et al.
 
 June 2001
 :    **A Re-annotation of the Saccharomyces cerevisiae Genome.** \
+     V. Wood, K. M. Rutherford, A. Ivens, M-A Rajandream and B. Barrell \
      *Comp Funct Genomics. 2001 June; 2(3): 143–154.*
-     V. Wood, K. M. Rutherford, A. Ivens, M-A Rajandream and B. Barrell
 
 Feb 2002
 :    **The genome sequence of Schizosaccharomyces pombe.** \
+     V. Wood et al. \
      *Nature. 2002 Feb 21;415(6874):871-80.*
-     V. Wood et al.
 
-GeneDB: a resource for prokaryotic and eukaryotic organisms.
-Hertz-Fowler C et al.
-Nucleic Acids Res. 2004 Jan 1;32(Database issue):D339-43.
+Jan 2004
+:    **GeneDB: a resource for prokaryotic and eukaryotic organisms.** \
+     Hertz-Fowler C et al. \
+     *Nucleic Acids Res. 2004 Jan 1;32(Database issue):D339-43.*
 
-ACT: the Artemis comparison tool.
-T. Carver, K. Rutherford, M. Berriman, M-A. Rajandream, B.. Barrell and
-J. Parkhill
-Bioinformatics. 2005 Aug 15;21(16):3422-3
+Aug 2005
+:    **ACT: the Artemis comparison tool.** \
+     T. Carver, K. Rutherford, M. Berriman, M-A. Rajandream, B.. Barrell and J. Parkhill \
+     *Bioinformatics. 2005 Aug 15;21(16):3422-3*
 
-FlyMine: an integrated database for Drosophila and Anopheles genomics.
-R. Lyne et al.
-Genome Biol. 2007;8(7):R129.
+July 2007
+:    **FlyMine: an integrated database for Drosophila and Anopheles genomics.** \
+     R. Lyne et al. \
+     *Genome Biol. 2007;8(7):R129.*
 
-Integrative Analysis of the C. elegans Genome by the modENCODE Project.
-MB Gerstein  et al.
-Science. 2010 Dec 24;330(6012):1775-87.
+Dec 2010
+:    **Integrative Analysis of the C. elegans Genome by the modENCODE Project.** \
+     MB Gerstein  et al. \
+     *Science. 2010 Dec 24;330(6012):1775-87.*
 
-PomBase: a comprehensive online resource for fission yeast.
-Wood V et al.
-Nucleic Acids Res. 2012 Jan;40(Database issue):D695-9.
+Jan 2012
+:    **PomBase: a comprehensive online resource for fission yeast.** \
+     Wood V et al. \
+     *Nucleic Acids Res. 2012 Jan;40(Database issue):D695-9.*
 
-InterMine: a flexible data warehouse system for the integration and analysis
-of heterogeneous biological data
-R. Smith et al.
-Bioinformatics. (2012) 28 (23):3163-3165.
 
-Gene ontology annotations and resources.
-Gene Ontology Consortium
-Nucleic Acids Res. 2013 Jan;41(Database issue):D530-5. doi:
-10.1093/nar/gks1050
+Sep 2012
+:    **InterMine: a flexible data warehouse system for the integration and analysis of heterogeneous biological data** \
+     R. Smith et al. \
+     *Bioinformatics. (2012) 28 (23):3163-3165.*
 
-Canto: An online tool for community literature curation
-K. Rutherford, M. A. Harris, A. Lock, S. G. Oliver and V. Wood
-Bioinformatics (2014) doi: 10.1093/bioinformatics/
+Jan 2013
+:    **Gene ontology annotations and resources.** \
+     Gene Ontology Consortium \
+     *Nucleic Acids Res. 2013 Jan;41(Database issue):D530-5. doi: 10.1093/nar/gks1050*
+
+Feb 2014
+:    **Canto: An online tool for community literature curation** \
+     K. Rutherford, M. A. Harris, A. Lock, S. G. Oliver and V. Wood \
+     *Bioinformatics (2014) doi: 10.1093/bioinformatics/btu103*

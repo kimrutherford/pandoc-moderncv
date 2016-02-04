@@ -215,13 +215,13 @@ section {
     }
 
     dt {
-        @include span(3 of $total-columns);
+        @include span(2.5 of $total-columns);
         text-align: right;
         clear: both;
     }
 
     dd {
-        @include span(last 9 of $total-columns); 
+        @include span(last 9.5 of $total-columns); 
 
         dt {
             font-style: italic;
