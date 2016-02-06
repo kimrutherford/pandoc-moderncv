@@ -64,7 +64,7 @@ June 2010 – Present
 
     Tasks
       ~ web and database programming
-      ~ system adminstration for curation.pombase.org
+      ~ system administration for curation.pombase.org
 
 Feb 2009 – June 2010
 :    **Computer Associate** *Baulcombe Group* \
