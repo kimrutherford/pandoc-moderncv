@@ -10,7 +10,7 @@ address:
   city: Dunedin
   country: New Zealand
 settings:
-  protect-email: true
+  protect-email: false
   protect-mobile: true
   protect-phone: true
   protect-fax: true
@@ -47,25 +47,52 @@ Work experience
 ---------------
 
 
+Sept 2012 – Present
+:    **Scientific Officer** *Gemmell lab* \
+     Department of Anatomy, University of Otago
+
+    Tasks
+      ~ bioinformatics support for the group
+      ~ genome and transcriptome assembly and analysis
+      ~ mentoring / training of group members in bioinformatics
+
 June 2010 – Present
 :    **Programmer** *Schizosaccharomyces pombe genome database (PomBase)* \
      Department of Biochemistry, University of Cambridge
+
+    Tasks
+      ~ web and database programming
+      ~ system adminstration for curation.pombase.org
 
 Feb 2009 – June 2010
 :    **Computer Associate** *Baulcombe Group* \
      Department of Plant Sciences, University of Cambridge
 
+    Tasks
+      ~ bioinformatics support
+      ~ creation of a short read analysis pipeline
+
 Sept 2007 – Feb 2009
 :    **Programmer** *modENCODE Data Coordination Center* \
      Cambridge Systems Biology Centre
+
+    Tasks
+      ~ helped create the data warehouse for the data from modENCODE
+        - [modMine](http://intermine.modencode.org/)
 
 Feb 2004 – Sept 2007
 :    **Programmer** *FlyMine/InterMine group* \
      Department of Genetics, University of Cambridge
 
+    Tasks
+      ~ Java programming for the InterMine project
+
 Sept 1998 – Feb 2004
 :    **Principal Computer Programmer** *Pathogen Sequencing Unit* \
      The Sanger Institute
+
+    Tasks
+      ~ programming and bioinformatics support
 
     Major projects
       ~ [Artemis](http://www.sanger.ac.uk/Software/Artemis/) - a genome analysis and annotation tool
@@ -242,11 +269,6 @@ June 2014
      D. Dikicioglu, V. Wood, K. Rutherford, M. McDowall, S. Oliver \
      *Trends in Biotechnology (2014) 10.1016/j.tibtech.2014.05.003*
 
-Jan 2015
-:    **Gene Ontology Consortium: going forward** \
-     The Gene Ontology Consortium \
-     *Nucl. Acids Res. (28 January 2015) 43 (D1): D1049-D1056.*
-
 Oct 2014
 :    **PomBase 2015: updates to the fission yeast database** \
      M. McDowall, M. Harris, A. Lock, K. Rutherford, D. Staines, J. Bähler,
@@ -258,6 +280,11 @@ Dec 2014
      mechanisms in reptilia** \
      D. E. Janes et al. \
      *Biol Lett. 2014 Dec; 10(12): 20140809.*
+
+Jan 2015
+:    **Gene Ontology Consortium: going forward** \
+     The Gene Ontology Consortium \
+     *Nucl. Acids Res. (28 January 2015) 43 (D1): D1049-D1056.*
 
 Nov 2015
 :    **Large-scale transcriptome sequencing reveals novel expression patterns
