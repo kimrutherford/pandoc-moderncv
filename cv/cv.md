@@ -140,7 +140,7 @@ Oct 2001
 
 Oct 2001
 :    **Complete genome sequence of a multiple drug resistant *Salmonella
-     enterica* serovar Typhi CT18.** \ 
+     enterica* serovar Typhi CT18.** \
      J. Parkhill et al. \
      *Nature. 2001 Oct 25;413(6858):848-52.*
 
@@ -155,12 +155,12 @@ May 2002
      *Nature. 2002 May 9;417(6885):141-7.*
 
 Oct 2002
-:    **Sequence of Plasmodium falciparum chromosomes 1, 3–9 and 13.** \
+:    **Sequence of *Plasmodium falciparum* chromosomes 1, 3–9 and 13.** \
      N. Hall et al. \
      *Nature. 2002 Oct 3;419(6906):527-31.*
 
 Oct 2002
-:    **Genome sequence of the human malaria parasite Plasmodium falciparum.** \
+:    **Genome sequence of the human malaria parasite *Plasmodium falciparum*.** \
      J. Malcolm et al. \
      *Nature. 2002 Oct 3;419(6906):498-511.*
 
