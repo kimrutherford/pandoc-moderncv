@@ -95,8 +95,8 @@ Sept 1998 – Feb 2004
       ~ programming and bioinformatics support
 
     Major projects
-      ~ [Artemis](http://www.sanger.ac.uk/Software/Artemis/) - a genome analysis and annotation tool
-      ~ [ACT](http://www.sanger.ac.uk/Software/ACT/) - a genome comparison viewer
+      ~ [Artemis](http://www.sanger.ac.uk/science/tools/artemis) - a genome analysis and annotation tool
+      ~ [ACT](http://www.sanger.ac.uk/science/tools/artemis-comparison-tool-act) - a genome comparison viewer
 
 
 Publications
