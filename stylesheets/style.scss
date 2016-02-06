@@ -220,7 +220,7 @@ section {
     }
 
     dd {
-        @include span(last 9.5 of $total-columns); 
+        @include span(last 9.4 of $total-columns);
 
         dt {
             font-style: italic;
