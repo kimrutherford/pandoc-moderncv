@@ -17,12 +17,14 @@ settings:
 footer: |
   - [kim_rutherford](http://twitter.com/kim_rutherford)
   - [kimrutherford](http://github.com/kimrutherford)
+#  - [Kim Rutherford](https://plus.google.com/u/0/107862319404407594428)
 ---
 
 Profile
 -------
 
-Bioinformatics, genomics and programming.
+I am a software developer and bioinformatician.  For the last 18 years I have
+been helping biologists to analyse and interpret genomic data.
 
 Education
 ---------

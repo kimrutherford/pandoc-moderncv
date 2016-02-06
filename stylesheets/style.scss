@@ -46,6 +46,7 @@ a {
     // overriding
     &.social { &:before{ content: "" attr(data-network) "# "; } }
     &.twitter, &[href*='twitter.com'] { @extend %twitter-icon; }
+    &.googleplus, &[href*='plus.google.com'] { @extend %googleplus-icon; }
     &.github, &[href*='github.com'] { @extend %github-icon; }
     &.linkedin, &[href*='linkedin.com'] { @extend %linkedin-icon; }
 }

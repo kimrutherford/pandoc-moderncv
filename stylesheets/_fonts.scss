@@ -34,4 +34,5 @@ $fa-version:    "4.0.3" !default;
 // social icons
 %twitter-icon:before { @extend %icon; content: $fa-var-twitter !important; }
 %github-icon:before { @extend %icon; content: $fa-var-github !important; }
+%googleplus-icon:before { @extend %icon; content: $fa-var-google-plus !important; }
 %linkedin-icon:before { @extend %icon; content: $fa-var-linkedin !important; }
