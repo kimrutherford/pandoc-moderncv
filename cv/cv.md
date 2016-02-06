@@ -35,15 +35,13 @@ University, Wellington, New Zealand
 Skills and Experience
 ---------------------
 
-* Genome annotation and analysis tool development
-* Development and maintenance of data warehousing software for genomics and
-  proteomics
+* Software development: web, desktop and server
+* Database administration and maintenance
+* Genome annotation and analysis
 * Data processing, data management and analysis of next generation sequencing
   results
-* Web application development
-* SQL database administration and maintenance
-* Systems administration including software and database installation,
-  configuration and deployment
+* Systems administration including software and database installation and
+  configuration
 
 Work experience
 ---------------
