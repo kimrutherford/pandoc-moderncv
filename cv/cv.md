@@ -57,7 +57,7 @@ Sept 2012 – Present
       ~ mentoring / training of group members in bioinformatics
 
 June 2010 – Present
-:    **Programmer** *Schizosaccharomyces pombe genome database (PomBase)* \
+:    **Programmer** *S. pombe genome database (PomBase)* \
      Department of Biochemistry, University of Cambridge
 
     Tasks
@@ -77,8 +77,8 @@ Sept 2007 – Feb 2009
      Cambridge Systems Biology Centre
 
     Tasks
-      ~ helped create the data warehouse for the data from modENCODE
-        - [modMine](http://intermine.modencode.org/)
+      ~ helped create the data warehouse for the data from modENCODE: \
+        [modMine](http://intermine.modencode.org/)
 
 Feb 2004 – Sept 2007
 :    **Programmer** *FlyMine/InterMine group* \

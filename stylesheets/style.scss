@@ -34,7 +34,7 @@ p, dt {
 
 a { 
     text-decoration: none;
-    color: inherit;
+    color: #006;
 
     // default behavior
     &[href^="http"] { @extend %external-link-icon; }
