@@ -294,3 +294,8 @@ Nov 2015
      H. Liu, M. Lamm, K. Rutherford, M. Black, J. Godwin and N. Gemmell \
      *Biology of Sex Differences (2015) 6:26*
 
+Feb 2016
+:   **Uncovering the pathways underlying whole body regeneration in a chordate
+    model, *Botrylloides leachi* using de novo transcriptome analysis** \
+    L. Zondag, K. Rutherford, N. Gemmell and M. Wilson \
+    *BMC Genomics, in press*
