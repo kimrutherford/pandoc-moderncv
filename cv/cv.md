@@ -55,6 +55,7 @@ Sept 2012 – Present
       ~ bioinformatics support for the group
       ~ genome and transcriptome assembly and analysis
       ~ mentoring / training of group members in bioinformatics
+      ~ [tuatara](https://en.wikipedia.org/wiki/Tuatara) [genome project](http://gemmell-lab.otago.ac.nz/research-projects/current-research-projects/1-sequencing-a-living-fossil-the-tuatara-genome-project)
 
 June 2010 – Present
 :    **Programmer** *S. pombe genome database (PomBase)* \
@@ -63,6 +64,10 @@ June 2010 – Present
     Tasks
       ~ web and database programming
       ~ system administration for curation.pombase.org
+
+    Main project
+      ~ [Canto](http://curation.pombase.org)
+
 
 Feb 2009 – June 2010
 :    **Computer Associate** *Baulcombe Group* \
@@ -85,7 +90,7 @@ Feb 2004 – Sept 2007
      Department of Genetics, University of Cambridge
 
     Tasks
-      ~ Java programming for the InterMine project
+      ~ Java programming for the [InterMine](http://www.intermine.org) project
 
 Sept 1998 – Feb 2004
 :    **Principal Computer Programmer** *Pathogen Sequencing Unit* \
