@@ -3,7 +3,7 @@ lang: en
 title: Software Development and Bioinformatics
 firstname: Kim
 lastname: Rutherford
-homepage: http://kimrutherford.github.io
+homepage: http://kmr.aska.gen.nz
 email: kmr@aska.gen.nz
 mobile: '+64 212508293'
 address:
