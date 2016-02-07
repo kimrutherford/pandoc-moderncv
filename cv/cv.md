@@ -3,8 +3,8 @@ lang: en
 title: Software Development and Bioinformatics
 firstname: Kim
 lastname: Rutherford
-homepage: http://kmr.aska.gen.nz
-email: kmr@aska.gen.nz
+homepage: http://kmr.bioinformatics.nz
+email: kmr@bioinformatics.nz
 mobile: '+64 212508293'
 address:
   city: Dunedin
