@@ -1,6 +1,7 @@
 ---
 lang: en
 title: Software Development and Bioinformatics
+title-prefix: Kim Rutherford
 firstname: Kim
 lastname: Rutherford
 homepage: http://kmr.bioinformatics.nz
