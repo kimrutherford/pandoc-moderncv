@@ -38,8 +38,7 @@ Skills and Experience
 * Software development: web, desktop and server
 * Database administration and maintenance
 * Genome annotation and analysis
-* Data processing, data management and analysis of next generation sequencing
-  results
+* Processing, management and analysis of next generation sequencing data
 * Systems administration including software and database installation and
   configuration
 
