@@ -19,6 +19,8 @@ settings:
 footer: |
   - [kim_rutherford](http://twitter.com/kim_rutherford)
   - [kimrutherford](http://github.com/kimrutherford)
+  - [kmr.bioinformatics.nz](http://kmr.bioinformatics.nz)
+  - Skype: kim_rutherford
 #  - [Kim Rutherford](https://plus.google.com/u/0/107862319404407594428)
 ---
 
