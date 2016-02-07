@@ -66,7 +66,7 @@ June 2010 – Present
       ~ system administration for curation.pombase.org
 
     Main project
-      ~ [Canto](http://curation.pombase.org)
+      ~ [Canto](http://curation.pombase.org) - a community curation tool
 
 
 Feb 2009 – June 2010
