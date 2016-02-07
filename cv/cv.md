@@ -15,6 +15,7 @@ settings:
   protect-mobile: true
   protect-phone: true
   protect-fax: true
+  protect-homepage: false
 footer: |
   - [kim_rutherford](http://twitter.com/kim_rutherford)
   - [kimrutherford](http://github.com/kimrutherford)

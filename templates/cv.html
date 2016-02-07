@@ -83,7 +83,13 @@
       $endif$
       <!-- homepage -->
       $if(homepage)$
+      $if(settings.protect-homepage)$
+      $if(privatecv)$
       <li><a href="$homepage$" itemprop="url" title="homepage">$homepage$</a></li>
+      $endif$
+      $else$
+      <li><a href="$homepage$" itemprop="url" title="homepage">$homepage$</a></li>
+      $endif$
       $endif$
       <!--if(address)-->
       $if(address)$
