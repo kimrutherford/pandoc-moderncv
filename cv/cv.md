@@ -257,7 +257,7 @@ Jan 2012
 
 Sep 2012
 :    **InterMine: a flexible data warehouse system for the integration and
-     analysis of heterogeneous biological data** \ 
+     analysis of heterogeneous biological data** \
      R. Smith et al. \
      *Bioinformatics. (2012) 28 (23):3163-3165.*
 
