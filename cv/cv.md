@@ -304,4 +304,4 @@ Feb 2016
 :   **Uncovering the pathways underlying whole body regeneration in a chordate
     model, *Botrylloides leachi* using de novo transcriptome analysis** \
     L. Zondag, K. Rutherford, N. Gemmell and M. Wilson \
-    *BMC Genomics, in press*
+    *BMC Genomics (2016) 17:114 DOI 10.1186/s12864-016-2435-6*
