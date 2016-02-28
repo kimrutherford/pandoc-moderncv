@@ -272,8 +272,7 @@ Feb 2014
      *Bioinformatics (2014) doi: 10.1093/bioinformatics/btu103*
 
 June 2014
-:    **Improving functional annotation for industrial microbes: A case study
-     with *Pichia pastoris* ** \
+:    **Improving functional annotation for industrial microbes: A case study with Pichia pastoris** \
      D. Dikicioglu, V. Wood, K. Rutherford, M. McDowall, S. Oliver \
      *Trends in Biotechnology (2014) 10.1016/j.tibtech.2014.05.003*
 
