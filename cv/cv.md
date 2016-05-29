@@ -110,8 +110,12 @@ Sept 1998 – Feb 2004
 Publications
 ------------
 
-[Scopus profile](http://www.scopus.com/authid/detail.uri?authorId=7007171631)
-
+<div style="float: right; font-size: 90%;">
+<span style="color: grey">&#9679;</span> [Scopus profile](http://www.scopus.com/authid/detail.uri?authorId=7007171631) 
+<span style="color: grey">&#9679;</span> [Google Scholar](https://scholar.google.co.nz/citations?hl=en&user=63wyizYAAAAJ&view_op=list_works&sortby=pubdate)
+<span style="color: grey">&#9679;</span> [ORCID](http://orcid.org/0000-0001-6277-726X)
+ </div>
+ 
 Feb 2000
 :    **The genome sequence of the food-borne pathogen *Campylobacter jejuni*
      reveals hypervariable sequences.** \
