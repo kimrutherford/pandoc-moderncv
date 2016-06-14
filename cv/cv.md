@@ -18,7 +18,7 @@ settings:
   protect-homepage: false
 footer: |
   - [kim_rutherford](http://twitter.com/kim_rutherford)
-  - [kimrutherford](http://github.com/kimrutherford)
+  - [kimrutherford](https://github.com/kimrutherford)
   - [kmr.bioinformatics.nz](http://kmr.bioinformatics.nz)
   - Skype: kim_rutherford
 #  - [Kim Rutherford](https://plus.google.com/u/0/107862319404407594428)
@@ -93,7 +93,7 @@ Feb 2004 – Sept 2007
      Department of Genetics, University of Cambridge
 
     Tasks
-      ~ Java programming for the [InterMine](http://www.intermine.org) project
+      ~ Java programming for the [InterMine](http://intermine.org) project
 
 Sept 1998 – Feb 2004
 :    **Principal Computer Programmer** *Pathogen Sequencing Unit* \
@@ -139,7 +139,7 @@ Feb 2001
      *Nature. 2001 Feb 22;409(6823):1007-11.*
 
 June 2001
-:    **A Re-annotation of the Saccharomyces *cerevisiae Genome*.** \
+:    **A Re-annotation of the *Saccharomyces cerevisiae* Genome.** \
      V. Wood, K. M. Rutherford, A. Ivens, M-A Rajandream and B. Barrell \
      *Comp Funct Genomics. 2001 June; 2(3): 143–154.*
 
