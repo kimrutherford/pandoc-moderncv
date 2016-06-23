@@ -97,7 +97,7 @@
       $if(privatecv)$
       <li itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
         $if(address.city)$
-        <span itemprop="addressLocality">$address.city$</span>
+        <span itemprop="addressLocality">$address.city$, </span>
         $endif$
         $if(address.country)$
         <span itemprop="addressCountry">$address.country$</span>
@@ -107,7 +107,7 @@
       $else$
       <li itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
         $if(address.city)$
-        <span itemprop="addressLocality">$address.city$</span>
+        <span itemprop="addressLocality">$address.city$, </span>
         $endif$
         $if(address.country)$
         <span itemprop="addressCountry">$address.country$</span>
