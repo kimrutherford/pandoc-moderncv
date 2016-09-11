@@ -20,6 +20,7 @@ footer: |
   - [kim_rutherford](http://twitter.com/kim_rutherford)
   - [kimrutherford](https://github.com/kimrutherford)
   - [kmr.bioinformatics.nz](http://kmr.bioinformatics.nz)
+  - [keybase.io/kmr](https://keybase.io/kmr)
   - Skype: kim_rutherford
 #  - [Kim Rutherford](https://plus.google.com/u/0/107862319404407594428)
 ---
@@ -29,12 +30,6 @@ Profile
 
 I am a software developer and bioinformatician.  For the last 17 years I have
 been helping biologists to analyse and interpret genomic data.
-
-Education
----------
-
-Bachelor of Science with Honours in Computer Science and Mathematics. Victoria
-University, Wellington, New Zealand
 
 Skills and Experience
 ---------------------
