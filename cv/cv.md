@@ -247,18 +247,18 @@ Nov 2011
 
 Jan 2012
 :    **PomBase: a comprehensive online resource for fission yeast.** \
-     Wood V et al. \
+     V. Wood, M.A. Harris, M.D. McDowall, K. Rutherford, B.W. Vaughan, D.M. Staines, M. Aslett, A. Lock, J. Bähler, P.J. Kersey, S.G. Oliver \
      *Nucleic Acids Res. 2012 Jan;40(Database issue):D695-9.*
 
 Jan 2012
 :    **modMine: flexible access to modENCODE data.**\
-     S. Contrino et al. \
+                S. Contrino, R.N. Smith, D. Butano, A. Carr, F. Hu, R. Lyne, K. Rutherford, A. Kalderimis, J. Sullivan, S. Carbon, E.T. Kephart, P. Lloyd, E.O. Stinson, N.L. Washington, M.D. Perry, P. Ruzanov, Z. Zha, S.E. Lewis, L.D. Stein, G. Micklem \
      *Nucleic Acids Res. 2012 Jan;40(Database issue):D1082-8.*
 
 Sep 2012
 :    **InterMine: a flexible data warehouse system for the integration and
      analysis of heterogeneous biological data** \
-     R. Smith et al. \
+     R.N. Smith, J. Aleksic, D. Butano, A. Carr, S. Contrino, F. Hu, M. Lyne, R. Lyne, A. Kalderimis, K. Rutherford, R. Stepan, J. Sullivan, M. Wakeling, X. Watkins, G. Micklem \
      *Bioinformatics. (2012) 28 (23):3163-3165.*
 
 Jan 2013
