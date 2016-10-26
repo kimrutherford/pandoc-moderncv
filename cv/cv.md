@@ -29,7 +29,7 @@ Profile
 -------
 
 I am a software developer and bioinformatician.  For the last 18 years I have
-been helping biologists to analyse and interpret genomic data.
+been helping biologists to capture, analyse and interpret genomic data.
 
 Skills and Experience
 ---------------------
@@ -304,3 +304,11 @@ Feb 2016
     model, *Botrylloides leachi* using de novo transcriptome analysis** \
     L. Zondag, K. Rutherford, N. Gemmell and M. Wilson \
     *BMC Genomics (2016) 17:114 DOI 10.1186/s12864-016-2435-6*
+
+Jan 2017
+:   **PHI-base: A new interface and further additions for the multi-species
+    pathogen-host interactions database.** \
+    Urban, M., Alayne Cuzick, A., Rutherford, K., Irvine, A., Pedro, H., Pant,
+    R., Sadanadan, V., Khamari, L., Billal, S., Mohanty S.,
+    and. Hammond-Kosack, K.E. \
+    Nucleic Acids Research (Jan 2017database issue) accepted.
