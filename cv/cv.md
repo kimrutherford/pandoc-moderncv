@@ -311,4 +311,4 @@ Jan 2017
     Urban, M., Alayne Cuzick, A., Rutherford, K., Irvine, A., Pedro, H., Pant,
     R., Sadanadan, V., Khamari, L., Billal, S., Mohanty S.,
     and. Hammond-Kosack, K.E. \
-    Nucleic Acids Research (Jan 2017database issue) accepted.
+    *Nucleic Acids Research (2017) doi: 10.1093/nar/gkw1089*
