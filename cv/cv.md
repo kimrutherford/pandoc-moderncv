@@ -63,9 +63,9 @@ June 2010 – Present
       ~ web and database programming
       ~ system administration for curation.pombase.org
 
-    Main project
-      ~ [Canto](http://curation.pombase.org) - a community curation tool
-
+    Major projects
+      ~ [Canto](https://curation.pombase.org) - a community curation tool
+      ~ [PomBase v2](http://pombase2.bioinformatics.nz)
 
 Feb 2009 – June 2010
 :    **Computer Associate** *Baulcombe Group* \
