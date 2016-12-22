@@ -45,16 +45,6 @@ Work experience
 ---------------
 
 
-Sept 2012 – Present
-:    **Scientific Officer** *Gemmell lab* \
-     Department of Anatomy, University of Otago
-
-    Tasks
-      ~ bioinformatics support for the group
-      ~ genome and transcriptome assembly and analysis
-      ~ mentoring / training of group members in bioinformatics
-      ~ [tuatara](https://en.wikipedia.org/wiki/Tuatara) [genome project](http://gemmell-lab.otago.ac.nz/research-projects/current-research-projects/1-sequencing-a-living-fossil-the-tuatara-genome-project)
-
 June 2010 – Present
 :    **Programmer** *S. pombe genome database (PomBase)* \
      Department of Biochemistry, University of Cambridge
@@ -66,6 +56,16 @@ June 2010 – Present
     Major projects
       ~ [Canto](https://curation.pombase.org) - a community curation tool
       ~ [PomBase v2](http://pombase2.bioinformatics.nz)
+
+Sept 2012 – Dec 2016
+:    **Scientific Officer** (part time) *Gemmell lab* \
+     Department of Anatomy, University of Otago
+
+    Tasks
+      ~ bioinformatics support for the group
+      ~ genome and transcriptome assembly and analysis
+      ~ mentoring / training of group members in bioinformatics
+      ~ [tuatara](https://en.wikipedia.org/wiki/Tuatara) [genome project](http://gemmell-lab.otago.ac.nz/research-projects/current-research-projects/1-sequencing-a-living-fossil-the-tuatara-genome-project)
 
 Feb 2009 – June 2010
 :    **Computer Associate** *Baulcombe Group* \
