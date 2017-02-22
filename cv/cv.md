@@ -80,7 +80,7 @@ Sept 2007 – Feb 2009
      Cambridge Systems Biology Centre
 
     Tasks
-      ~ helped create the data warehouse for the data from modENCODE: \
+      ~ helped create the data warehouse for the modENCODE project: \
         [modMine](http://intermine.modencode.org/)
 
 Feb 2004 – Sept 2007
