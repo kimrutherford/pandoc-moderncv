@@ -316,7 +316,24 @@ Jan 2017
 2017
 :   **Male-female relatedness at specific SNP-linkage groups
     influences cryptic female choice in Chinook salmon (*Oncorhynchus
-    tshawytscha*)**
+    tshawytscha*)** \
     C. Gessner, S.L. Johnson, P. Fisher, S. Clarke, K. Rutherford,
-    J. Symonds, N.J. Gemmell
+    J. Symonds, N.J. Gemmell \
+    *(In press)*
+
+2017
+:   **Identification of sex differences in zebrafish brain during
+    early sexual differentiation and masculinisation using
+    methyltestoterone** \
+    S.L.J. Lee, J.A. Horsfield, M.A. Black, K. Rutherford,
+    N.J. Gemmell \
+    *(In press)*
+
+2017
+:   **Analysis of the genome of the New Zealand giant Collembola
+    (Holacanthella duospinosa) sheds light on hexapod evolution** \
+    C. Wu, M.D. Jordan, R.D. Newcomb, N.J. Gemmell, S. Bank,
+    K. Meusemann, P.K. Dearden, E.J. Duncan, S. Grosser,
+    K. Rutherford, P.P. Gardner, R.N. Crowhurst, B. Steinwender,
+    L. Tooman, M.I. Stevens, and T.R. Buckley \
     *(In press)*
