@@ -312,3 +312,11 @@ Jan 2017
     R., Sadanadan, V., Khamari, L., Billal, S., Mohanty S.,
     and. Hammond-Kosack, K.E. \
     *Nucleic Acids Research (2017) doi: 10.1093/nar/gkw1089*
+
+2017
+:   **Male-female relatedness at specific SNP-linkage groups
+    influences cryptic female choice in Chinook salmon (*Oncorhynchus
+    tshawytscha*)**
+    C. Gessner, S.L. Johnson, P. Fisher, S. Clarke, K. Rutherford,
+    J. Symonds, N.J. Gemmell
+    *(In press)*
