@@ -312,3 +312,11 @@ Jan 2017
     R., Sadanadan, V., Khamari, L., Billal, S., Mohanty S.,
     and. Hammond-Kosack, K.E. \
     *Nucleic Acids Research (2017) doi: 10.1093/nar/gkw1089*
+
+2017
+:   **Identification of sex differences in zebrafish brain during
+    early sexual differentiation and masculinisation using
+    methyltestoterone** \
+    S.L.J. Lee, J.A. Horsfield, M.A. Black, K. Rutherford,
+    N.J. Gemmell \
+    *BMC Genomics (2017) 18:557 doi: 10.1186/s12864-017-3915-z*
