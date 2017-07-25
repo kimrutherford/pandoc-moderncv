@@ -313,7 +313,7 @@ Jan 2017
     and. Hammond-Kosack, K.E. \
     *Nucleic Acids Research (2017) doi: 10.1093/nar/gkw1089*
 
-2017
+July 2017
 :   **Identification of sex differences in zebrafish brain during
     early sexual differentiation and masculinisation using
     methyltestoterone** \
