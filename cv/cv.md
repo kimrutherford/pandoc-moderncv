@@ -305,6 +305,12 @@ Feb 2016
     L. Zondag, K. Rutherford, N. Gemmell and M. Wilson \
     *BMC Genomics (2016) 17:114 DOI 10.1186/s12864-016-2435-6*
 
+Nov 2016
+:   **The Gene Ontology Consortium; Expansion of the Gene Ontology
+    knowledgebase and resources.** \
+    The Gene Ontology Consortium \
+    *Nucleic Acids Res 2017; 45 (D1): D331-D338. doi: 10.1093/nar/gkw1108*
+
 Jan 2017
 :   **PHI-base: A new interface and further additions for the multi-species
     pathogen-host interactions database.** \
@@ -312,6 +318,12 @@ Jan 2017
     R., Sadanadan, V., Khamari, L., Billal, S., Mohanty S.,
     and. Hammond-Kosack, K.E. \
     *Nucleic Acids Research (2017) doi: 10.1093/nar/gkw1089*
+
+April 2017
+:   Gene Network and Adipose Transcriptome Analysis of the Northern
+    Elephant Seal During Prolonged Food Deprivation
+    Martinez B., Rutherford K., Crocker D., Gemmell N., and Ortiz R.M. \
+    *FASEB J April 2017 31:883.10*
 
 July 2017
 :   **Identification of sex differences in zebrafish brain during
