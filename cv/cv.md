@@ -320,3 +320,11 @@ July 2017
     S.L.J. Lee, J.A. Horsfield, M.A. Black, K. Rutherford,
     N.J. Gemmell \
     *BMC Genomics (2017) 18:557 doi: 10.1186/s12864-017-3915-z*
+
+July 2017
+:   **Male-female relatedness at specific SNP-linkage groups
+    influences cryptic female choice in Chinook salmon (*Oncorhynchus
+    tshawytscha*)** \
+    C. Gessner, S.L. Johnson, P. Fisher, S. Clarke, K. Rutherford,
+    J. Symonds, N.J. Gemmell \
+    *Proc. R. Soc. B 2017 284 20170853; DOI: 10.1098/rspb.2017.0853.*
