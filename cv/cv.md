@@ -320,8 +320,8 @@ Jan 2017
     *Nucleic Acids Research (2017) doi: 10.1093/nar/gkw1089*
 
 April 2017
-:   Gene Network and Adipose Transcriptome Analysis of the Northern
-    Elephant Seal During Prolonged Food Deprivation
+:   **Gene Network and Adipose Transcriptome Analysis of the Northern
+    Elephant Seal During Prolonged Food Deprivation** \
     Martinez B., Rutherford K., Crocker D., Gemmell N., and Ortiz R.M. \
     *FASEB J April 2017 31:883.10*
 
