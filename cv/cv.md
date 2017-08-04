@@ -326,10 +326,9 @@ April 2017
     *FASEB J April 2017 31:883.10*
 
 July 2017
-:   **Identification of sex differences in zebrafish brain during
-    early sexual differentiation and masculinisation using
-    methyltestoterone** \
-    S.L.J. Lee, J.A. Horsfield, M.A. Black, K. Rutherford,
+:   **Histological and transcriptomic effects of
+    17α-methyltestosterone on zebrafish gonad development** \
+    S.L.J. Lee, J.A. Horsfield, M.A. Black, K. Rutherford, A. Fisher,
     N.J. Gemmell \
     *BMC Genomics (2017) 18:557 doi: 10.1186/s12864-017-3915-z*
 
