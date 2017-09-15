@@ -28,7 +28,7 @@ footer: |
 Profile
 -------
 
-I am a software developer and bioinformatician.  For the last 18 years I have
+I am a software developer and bioinformatician.  For the last 19 years I have
 been helping biologists to capture, analyse and interpret genomic data.
 
 Skills and Experience
@@ -55,7 +55,7 @@ June 2010 – Present
 
     Major projects
       ~ [Canto](https://curation.pombase.org) - a community curation tool
-      ~ [PomBase v2](http://pombase2.bioinformatics.nz)
+      ~ [PomBase v2](http://preview.pombase.org)
 
 Sept 2012 – Dec 2016
 :    **Scientific Officer** (part time) *Gemmell lab* \
@@ -318,12 +318,6 @@ Jan 2017
     R., Sadanadan, V., Khamari, L., Billal, S., Mohanty S.,
     and. Hammond-Kosack, K.E. \
     *Nucleic Acids Research (2017) doi: 10.1093/nar/gkw1089*
-
-April 2017
-:   **Gene Network and Adipose Transcriptome Analysis of the Northern
-    Elephant Seal During Prolonged Food Deprivation** \
-    Martinez B., Rutherford K., Crocker D., Gemmell N., and Ortiz R.M. \
-    *FASEB J April 2017 31:883.10*
 
 July 2017
 :   **Histological and transcriptomic effects of
