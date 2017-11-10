@@ -333,3 +333,10 @@ July 2017
     C. Gessner, S.L. Johnson, P. Fisher, S. Clarke, K. Rutherford,
     J. Symonds, N.J. Gemmell \
     *Proc. R. Soc. B 2017 284 20170853; DOI: 10.1098/rspb.2017.0853.*
+
+Nov 2017
+:   **Female mimicry by sneaker males has a transcriptomic signature
+    in both the brain and gonad in a sex changing fish** \
+    E.V. Todd, H. Liu, M.S. Lamm, J.T. Thomas, K. Rutherford, K.C. Thompson,
+    J.R. Godwin N.J. Gemmell \
+    *Molecular Biology and Evolution, doi: 10.1093/molbev/msx293*
