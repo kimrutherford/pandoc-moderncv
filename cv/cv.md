@@ -319,6 +319,11 @@ Jan 2017
     and. Hammond-Kosack, K.E. \
     *Nucleic Acids Research (2017) doi: 10.1093/nar/gkw1089*
 
+June 2017
+:   **PomBase – the scientific resource for fission yeast** \
+    V. Wood, A. Lock, K. Rutherford, M.A. Harris \
+    *Methods in Molecular Biology doi: 10.17863/CAM.12124*
+
 July 2017
 :   **Histological and transcriptomic effects of
     17α-methyltestosterone on zebrafish gonad development** \
