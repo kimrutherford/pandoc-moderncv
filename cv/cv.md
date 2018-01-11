@@ -355,4 +355,4 @@ Dec 2017
     brains during early sexual differentiation and masculinisation
     using 17α-methyltestoterone** \
     S.L.J. Lee, J.A. Horsfield, M.A. Black, K.M. Rutherford, N.J. Gemmell \
-    * Biology of Reproduction, doi: 10.1093/biolre/iox175*
+    *Biology of Reproduction, doi: 10.1093/biolre/iox175*
