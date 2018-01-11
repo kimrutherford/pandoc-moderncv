@@ -340,14 +340,14 @@ Oct 2017
     C. Wu, M.D. Jordan, R.D. Newcomb, N.J. Gemmell, S. Bank,
     K. Meusemann, P.K. Dearden, E.J. Duncan, S. Grosser,
     K. Rutherford, P.P. Gardner, R.N. Crowhurst, B. Steinwender,
-    L. Tooman, M.I. Stevens, and T.R. Buckley \
+    L. Tooman, M.I. Stevens, T.R. Buckley \
     *BMC Genomics 2017 18:795 DOI: 10.1186/s12864-017-4197-1*
 
 Nov 2017
 :   **Female mimicry by sneaker males has a transcriptomic signature
     in both the brain and gonad in a sex changing fish** \
     E.V. Todd, H. Liu, M.S. Lamm, J.T. Thomas, K. Rutherford, K.C. Thompson,
-    J.R. Godwin N.J. Gemmell \
+    J.R. Godwin, N.J. Gemmell \
     *Molecular Biology and Evolution, doi: 10.1093/molbev/msx293*
 
 Dec 2017
