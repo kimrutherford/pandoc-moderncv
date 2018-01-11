@@ -350,3 +350,9 @@ Nov 2017
     J.R. Godwin N.J. Gemmell \
     *Molecular Biology and Evolution, doi: 10.1093/molbev/msx293*
 
+Dec 2017
+:   **Identification of sex differences in zebrafish (Danio rerio)
+    brains during early sexual differentiation and masculinisation
+    using 17α-methyltestoterone** \
+    S.L.J. Lee, J.A. Horsfield, M.A. Black, K.M. Rutherford, N.J. Gemmell \
+    * Biology of Reproduction, doi: 10.1093/biolre/iox175*
