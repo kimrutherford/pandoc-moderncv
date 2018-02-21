@@ -361,3 +361,9 @@ Dec 2017
     using 17α-methyltestoterone** \
     S.L.J. Lee, J.A. Horsfield, M.A. Black, K.M. Rutherford, N.J. Gemmell \
     *Biology of Reproduction, doi: 10.1093/biolre/iox175*
+
+Feb 2018
+:   **Genetic sex assignment in wild populations using GBS data: a
+    statistical threshold approach** \
+    W. Stovall, H.R. Taylor, M. Black, S. Grosser, K. Rutherford, N.J. Gemmell \
+    *Molecular Ecology Resources. doi: 10.1111/1755-0998.12767*
