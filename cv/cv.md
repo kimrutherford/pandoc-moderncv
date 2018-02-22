@@ -362,6 +362,15 @@ Dec 2017
     S.L.J. Lee, J.A. Horsfield, M.A. Black, K.M. Rutherford, N.J. Gemmell \
     *Biology of Reproduction, doi: 10.1093/biolre/iox175*
 
+Dec 2017
+:   **Analysis of the genome of the New Zealand giant collembolan
+    (Holacanthella duospinosa) sheds light on hexapod evolutiona** \
+    C. Wu, M.D. Jordan, R.D. Newcomb, N.J. Gemmell, S. Bank,
+    K. Meusemann, P.K. Dearden, E.J. Duncan, S. Grosser,
+    K. Rutherford, P.P. Gardner, R.N. Crowhurst, B. Steinwender,
+    L.K. Tooman, M.I. Stevens, T.R. Buckley \
+    *BMC Genomics. 2017 Oct 17;18(1):795. doi: 10.1186/s12864-017-4197-1.*
+
 Feb 2018
 :   **Genetic sex assignment in wild populations using GBS data: a
     statistical threshold approach** \
