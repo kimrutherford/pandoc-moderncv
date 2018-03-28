@@ -146,7 +146,7 @@ Oct 2001
 
 Oct 2001
 :    **Complete genome sequence of a multiple drug resistant *Salmonella
-     enterica* serovar Typhi CT18.** \
+     enterica* serovar Typhi CT18.** \
      J. Parkhill et al. \
      *Nature. 2001 Oct 25;413(6858):848-52.*
 
@@ -156,7 +156,8 @@ Feb 2002
      *Nature. 2002 Feb 21;415(6874):871-80.*
 
 May 2002
-:    **Complete genome sequence of the model actinomycete *Streptomyces coelicolor* A3(2).** \
+:    **Complete genome sequence of the model actinomycete *Streptomyces coelicolor*
+     A3(2).** \
      S. Bentley et al. \
      *Nature. 2002 May 9;417(6885):141-7.*
 
@@ -182,7 +183,8 @@ Aug 2003
      *Nucl. Acids Res. (2003) 31 (16): 4864-4873.*
 
 Nov 2003
-:    **The complete genome sequence and analysis of *Corynebacterium diphtheriae* NCTC13129.** \
+:    **The complete genome sequence and analysis of *Corynebacterium diphtheriae*
+     NCTC13129.** \
      A. Cerdeño‐Tárraga et al. \
      *Nucleic Acids Res. 2003 Nov 15;31(22):6516-23.*
 
@@ -367,3 +369,9 @@ Feb 2018
     statistical threshold approach** \
     W. Stovall, H.R. Taylor, M. Black, S. Grosser, K. Rutherford, N.J. Gemmell \
     *Molecular Ecology Resources. doi: 10.1111/1755-0998.12767*
+
+Mar 2018
+:   **_De novo_ draft assembly of the *Botrylloides leachii* genome
+    provides further insight into tunicate evolution** \
+    S. Blanchoud, K. Rutherford, L. Zondag, N. Gemmell, M Wilson \
+    Scientific Reports (In press)
