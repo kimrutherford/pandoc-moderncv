@@ -274,7 +274,7 @@ Feb 2014
      *Bioinformatics (2014) doi: 10.1093/bioinformatics/btu103*
 
 June 2014
-:    **Improving functional annotation for industrial microbes: A case study with Pichia pastoris** \
+:    **Improving functional annotation for industrial microbes: A case study with _Pichia pastoris_** \
      D. Dikicioglu, V. Wood, K. Rutherford, M. McDowall, S. Oliver \
      *Trends in Biotechnology (2014) 10.1016/j.tibtech.2014.05.003*
 
@@ -349,7 +349,7 @@ Nov 2017
     *Molecular Biology and Evolution, doi: 10.1093/molbev/msx293*
 
 Dec 2017
-:   **Identification of sex differences in zebrafish (Danio rerio)
+:   **Identification of sex differences in zebrafish (*Danio rerio*)
     brains during early sexual differentiation and masculinisation
     using 17α-methyltestoterone** \
     S.L.J. Lee, J.A. Horsfield, M.A. Black, K.M. Rutherford, N.J. Gemmell \
@@ -357,7 +357,7 @@ Dec 2017
 
 Dec 2017
 :   **Analysis of the genome of the New Zealand giant collembolan
-    (Holacanthella duospinosa) sheds light on hexapod evolution** \
+    (*Holacanthella duospinosa*) sheds light on hexapod evolution** \
     C. Wu, M.D. Jordan, R.D. Newcomb, N.J. Gemmell, S. Bank,
     K. Meusemann, P.K. Dearden, E.J. Duncan, S. Grosser,
     K. Rutherford, P.P. Gardner, R.N. Crowhurst, B. Steinwender,
@@ -374,4 +374,10 @@ Mar 2018
 :   **_De novo_ draft assembly of the *Botrylloides leachii* genome
     provides further insight into tunicate evolution** \
     S. Blanchoud, K. Rutherford, L. Zondag, N. Gemmell, M Wilson \
-    Scientific Reports (In press)
+    *Scientific Reports (In press)*
+
+Apr 2018
+:   **Adipose Transcriptome Analysis Provides Novel Insights into Molecular
+    Regulation of Prolonged Fasting in Northern Elephant Seal Pups** \
+    B. Martinez, J. Khudyakov, K. Rutherford, D. Crocker, N. Gemmell, R. Ortiz \
+    *Physiological Genomics (In press)*
