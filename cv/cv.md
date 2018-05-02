@@ -380,4 +380,4 @@ Apr 2018
 :   **Adipose Transcriptome Analysis Provides Novel Insights into Molecular
     Regulation of Prolonged Fasting in Northern Elephant Seal Pups** \
     B. Martinez, J. Khudyakov, K. Rutherford, D. Crocker, N. Gemmell, R. Ortiz \
-    *Physiological Genomics (In press)*
+    *Physiological Genomics doi: 10.1152/physiolgenomics.00002.2018*
