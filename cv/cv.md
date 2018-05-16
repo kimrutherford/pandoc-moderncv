@@ -381,3 +381,12 @@ Apr 2018
     Regulation of Prolonged Fasting in Northern Elephant Seal Pups** \
     B. Martinez, J. Khudyakov, K. Rutherford, D. Crocker, N. Gemmell, R. Ortiz \
     *Physiological Genomics doi: 10.1152/physiolgenomics.00002.2018*
+
+Book Chapters
+-------------
+
+Apr 2018
+:   **PomBase: The Scientific Resource for Fission Yeast** \
+    "Eukaryotic Genomic Databases : Methods and Protocols" \
+    A Lock, K Rutherford,  M.A. Harris, V. Wood \
+    *Methods in Molecular Biology, vol 1757. doi: 10.1007/978-1-4939-7737-6_4*
