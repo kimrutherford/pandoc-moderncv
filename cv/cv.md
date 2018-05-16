@@ -389,4 +389,4 @@ Apr 2018
 :   **PomBase: The Scientific Resource for Fission Yeast** \
     "Eukaryotic Genomic Databases : Methods and Protocols" \
     A Lock, K Rutherford,  M.A. Harris, V. Wood \
-    *Methods in Molecular Biology, vol 1757. doi: 10.1007/978-1-4939-7737-6_4*
+    *[Methods in Molecular Biology, vol 1757. doi: 10.1007/978-1-4939-7737-6_4](https://link.springer.com/protocol/10.1007/978-1-4939-7737-6_4)*
