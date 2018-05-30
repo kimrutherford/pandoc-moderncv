@@ -370,17 +370,25 @@ Feb 2018
     W. Stovall, H.R. Taylor, M. Black, S. Grosser, K. Rutherford, N.J. Gemmell \
     *Molecular Ecology Resources. doi: 10.1111/1755-0998.12767*
 
-Mar 2018
+Apr 2018
 :   **_De novo_ draft assembly of the *Botrylloides leachii* genome
     provides further insight into tunicate evolution** \
     S. Blanchoud, K. Rutherford, L. Zondag, N. Gemmell, M Wilson \
-    *Scientific Reports (In press)*
+    *Sci Rep. 2018 Apr 3;8(1):5518. doi: 10.1038/s41598-018-23749-w.*
 
 Apr 2018
 :   **Adipose Transcriptome Analysis Provides Novel Insights into Molecular
     Regulation of Prolonged Fasting in Northern Elephant Seal Pups** \
     B. Martinez, J. Khudyakov, K. Rutherford, D. Crocker, N. Gemmell, R. Ortiz \
     *Physiological Genomics doi: 10.1152/physiolgenomics.00002.2018*
+
+June 2018
+:   **Reduced representation sequencing detects only subtle regional
+    structure in a heavily exploited and rapidly recolonizing marine
+    mammal species** \
+    N. Dussex, H.R. Taylor, W.R. Stovall, K. Rutherford, K.G. Dodds,
+    S.M. Clarke, N.J. Gemmell \
+    *Ecology and Evolution. (In press)*
 
 Book Chapters
 -------------
