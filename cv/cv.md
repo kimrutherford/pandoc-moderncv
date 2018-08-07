@@ -55,7 +55,7 @@ June 2010 – Present
 
     Major projects
       ~ [Canto](https://curation.pombase.org) - a community curation tool
-      ~ [PomBase v2](http://preview.pombase.org)
+      ~ [PomBase v2](https://www.pombase.org)
 
 Sept 2012 – Dec 2016
 :    **Scientific Officer** (part time) *Gemmell lab* \
