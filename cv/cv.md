@@ -380,7 +380,7 @@ Apr 2018
 :   **Adipose Transcriptome Analysis Provides Novel Insights into Molecular
     Regulation of Prolonged Fasting in Northern Elephant Seal Pups** \
     B. Martinez, J. Khudyakov, K. Rutherford, D. Crocker, N. Gemmell, R. Ortiz \
-    *Physiological Genomics doi: 10.1152/physiolgenomics.00002.2018*
+    *Physiological Genomics. doi: 10.1152/physiolgenomics.00002.2018*
 
 June 2018
 :   **Reduced representation sequencing detects only subtle regional
@@ -388,7 +388,7 @@ June 2018
     mammal species** \
     N. Dussex, H.R. Taylor, W.R. Stovall, K. Rutherford, K.G. Dodds,
     S.M. Clarke, N.J. Gemmell \
-    *Ecology and Evolution. (In press)*
+    *Ecology and Evolution. doi: 10.1002/ece3.4411*
 
 Book Chapters
 -------------
