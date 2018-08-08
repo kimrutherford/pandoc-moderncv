@@ -382,7 +382,7 @@ Apr 2018
     B. Martinez, J. Khudyakov, K. Rutherford, D. Crocker, N. Gemmell, R. Ortiz \
     *Physiological Genomics. doi: 10.1152/physiolgenomics.00002.2018*
 
-June 2018
+Aug 2018
 :   **Reduced representation sequencing detects only subtle regional
     structure in a heavily exploited and rapidly recolonizing marine
     mammal species** \
