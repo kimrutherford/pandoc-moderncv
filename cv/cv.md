@@ -390,6 +390,12 @@ Aug 2018
     S.M. Clarke, N.J. Gemmell \
     *Ecology and Evolution. doi: 10.1002/ece3.4411*
 
+Aug 2018
+:   **Evolutionary history of the podoplanin gene** \
+    J. Renart, D. San Mauro, A. Agorreta, K. Rutherford, N. J. Gemmell,
+    M Quintanill \
+    *Gene Reports. doi: 10.1016/j.genrep.2018.08.005*
+
 Book Chapters
 -------------
 
