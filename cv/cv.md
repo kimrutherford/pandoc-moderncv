@@ -36,7 +36,7 @@ Skills and Experience
 
 * Software development: web, desktop and server
 * Database administration and maintenance
-* Genome annotation and analysis
+* Genome assembly, annotation and analysis
 * Processing, management and analysis of next generation sequencing data
 * Systems administration including software and database installation and
   configuration
@@ -395,6 +395,14 @@ Aug 2018
     J. Renart, D. San Mauro, A. Agorreta, K. Rutherford, N. J. Gemmell,
     M Quintanill \
     *Gene Reports. doi: 10.1016/j.genrep.2018.08.005*
+
+Oct 2018
+:   **PomBase 2018: user-driven reimplementation of the fission yeast
+    database provides rapid and intuitive access to diverse,
+    interconnected information** \
+    A. Lock, K. Rutherford, M.A. Harris, J Hayles, S.G. Oliver, J. Bähler,
+    V. Wood \
+    *Nucleic Acids Research. https://doi.org/10.1093/nar/gky961*
 
 Book Chapters
 -------------
