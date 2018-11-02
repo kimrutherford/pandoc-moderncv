@@ -90,7 +90,7 @@ Feb 2004 – Sept 2007
     Tasks
       ~ Java programming for the [InterMine](http://intermine.org) project
 
-Sept 1998 – Feb 2004
+Oct 2001 – Feb 2004
 :    **Principal Computer Programmer** *Pathogen Sequencing Unit* \
      The Sanger Institute
 
@@ -100,6 +100,14 @@ Sept 1998 – Feb 2004
     Major projects
       ~ [Artemis](http://www.sanger.ac.uk/science/tools/artemis) - a genome analysis and annotation tool
       ~ [ACT](http://www.sanger.ac.uk/science/tools/artemis-comparison-tool-act) - a genome comparison viewer
+
+Apr 1999 – Oct 2001
+:    **Senior Computer Programmer** *Pathogen Sequencing Unit* \
+     The Sanger Institute
+
+Sept 1998 – Apr 1999
+:    **Computer Programmer** *Pathogen Sequencing Unit* \
+     The Sanger Institute
 
 
 Publications
