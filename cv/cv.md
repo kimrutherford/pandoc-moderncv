@@ -51,7 +51,7 @@ June 2010 – Present
 
     Tasks
       ~ web and database programming
-      ~ system administration for curation.pombase.org
+      ~ system administration
 
     Major projects
       ~ [Canto](https://curation.pombase.org) - a community curation tool
