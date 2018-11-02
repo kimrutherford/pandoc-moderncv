@@ -115,12 +115,12 @@ Publications
 Feb 2000
 :    **The genome sequence of the food-borne pathogen *Campylobacter jejuni*
      reveals hypervariable sequences.** \
-     J. Parkhill et al. \
+     J. Parkhill *et al.* \
      *Nature. 2000 Feb 10;403(6770):665-8.*
 
 Mar 2000
 :    **Complete DNA sequence of a serogroup A strain of *Neisseria meningitidis* Z2491.** \
-     J. Parkhill et al. \
+     J. Parkhill *et al.* \
      *Nature. 2000 Mar 30;404(6777):502-6.*
 
 Oct 2000
@@ -132,12 +132,12 @@ Oct 2000
 Sep 2000
 :    **Analysis of 114 kb of DNA sequence from fission yeast
      chromosome 2 immediately centromere‐distal to _his5_.** \
-     Z. Xiang et al. \
+     Z. Xiang *et al.* \
      *Yeast 16: 1405–1411.*
 
 Feb 2001
 :    **Massive gene decay in the leprosy bacillus.** \
-     S. Cole et al. \
+     S. Cole *et al.* \
      *Nature. 2001 Feb 22;409(6823):1007-11.*
 
 June 2001
@@ -147,34 +147,34 @@ June 2001
 
 Oct 2001
 :    **Genome sequence of *Yersinia pestis*, the causative agent of plague.** \
-     J. Parkhill et al. \
+     J. Parkhill *et al.* \
      *Nature. 2001 Oct 4;413(6855):523-7.*
 
 Oct 2001
 :    **Complete genome sequence of a multiple drug resistant *Salmonella
      enterica* serovar Typhi CT18.** \
-     J. Parkhill et al. \
+     J. Parkhill *et al.* \
      *Nature. 2001 Oct 25;413(6858):848-52.*
 
 Feb 2002
 :    **The genome sequence of *Schizosaccharomyces pombe*.** \
-     V. Wood et al. \
+     V. Wood *et al.* \
      *Nature. 2002 Feb 21;415(6874):871-80.*
 
 May 2002
 :    **Complete genome sequence of the model actinomycete *Streptomyces coelicolor*
      A3(2).** \
-     S. Bentley et al. \
+     S. Bentley *et al.* \
      *Nature. 2002 May 9;417(6885):141-7.*
 
 Oct 2002
 :    **Sequence of *Plasmodium falciparum* chromosomes 1, 3–9 and 13.** \
-     N. Hall et al. \
+     N. Hall *et al.* \
      *Nature. 2002 Oct 3;419(6906):527-31.*
 
 Oct 2002
 :    **Genome sequence of the human malaria parasite *Plasmodium falciparum*.** \
-     J. Malcolm et al. \
+     J. Malcolm *et al.* \
      *Nature. 2002 Oct 3;419(6906):498-511.*
 
 June 2003
@@ -185,30 +185,30 @@ June 2003
 Aug 2003
 :    **The DNA sequence of chromosome I of an African trypanosome: Gene
      content, chromosome organisation, recombination and polymorphism** \
-     N. Hall et al. \
+     N. Hall *et al.* \
      *Nucl. Acids Res. (2003) 31 (16): 4864-4873.*
 
 Nov 2003
 :    **The complete genome sequence and analysis of *Corynebacterium diphtheriae*
      NCTC13129.** \
-     A. Cerdeño‐Tárraga et al. \
+     A. Cerdeño‐Tárraga *et al.* \
      *Nucleic Acids Res. 2003 Nov 15;31(22):6516-23.*
 
 Jan 2004
 :    **GeneDB: a resource for prokaryotic and eukaryotic organisms.** \
-     Hertz-Fowler C et al. \
+     Hertz-Fowler C *et al.* \
      *Nucleic Acids Res. 2004 Jan 1;32(Database issue):D339-43.*
 
 June 2004
 :    **Complete genomes of two clinical *Staphylococcus aureus* strains:
      Evidence for the rapid evolution of virulence and drug resistance.** \
-     M. Holden et al. \
+     M. Holden *et al.* \
      *Proc Natl Acad Sci U S A. 2004 Jun 29;101(26):9786-91*a
 
 Sep 2004
 :    **Genomic plasticity of the causative agent of melioidosis, *Burkholderia
      pseudomallei*.** \
-     M. Holden et al. \
+     M. Holden *et al.* \
      *Proc Natl Acad Sci U S A. 2004 Sep 28;101(39):14240-5.*
 
 Jan 2005
@@ -219,7 +219,7 @@ Jan 2005
 
 June 2005
 :    **A Human-Curated Annotation of the *Candida albicans* Genome** \
-     Braun et al. \
+     Braun *et al.* \
      *PLoS Genet. 2005 Jul;1(1):36-57. Epub 2005 Jun 17*
 
 Aug 2005
@@ -234,7 +234,7 @@ Sep 2005
 
 July 2007
 :    **FlyMine: an integrated database for *Drosophila* and *Anopheles* genomics.** \
-     R. Lyne et al. \
+     R. Lyne *et al.* \
      *Genome Biol. 2007;8(7):R129.*
 
 Dec 2010
@@ -293,7 +293,7 @@ Oct 2014
 Dec 2014
 :    **Molecular evolution of Dmrt1 accompanies change of sex-determining
      mechanisms in reptilia** \
-     D. E. Janes et al. \
+     D. E. Janes *et al.* \
      *Biol Lett. 2014 Dec; 10(12): 20140809.*
 
 Jan 2015
