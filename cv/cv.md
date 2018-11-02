@@ -129,6 +129,12 @@ Oct 2000
         M-A. Rajandream and B. Barrell \
      *Bioinformatics. 2000 Oct;16(10):944-5.*
 
+Sep 2000
+:    **Analysis of 114 kb of DNA sequence from fission yeast
+     chromosome 2 immediately centromere‐distal to _his5_.** \
+     Z. Xiang et al. \
+     *Yeast 16: 1405–1411.*
+
 Feb 2001
 :    **Massive gene decay in the leprosy bacillus.** \
      S. Cole et al. \
