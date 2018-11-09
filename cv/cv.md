@@ -418,6 +418,16 @@ Oct 2018
     V. Wood \
     *Nucleic Acids Research. https://doi.org/10.1093/nar/gky961*
 
+Oct 2018
+:   **The Gene Ontology Resource: 20 years and still GOing strong** \
+    The Gene Ontology Consortium \
+    *Nucleic Acids Research.  https://doi.org/10.1093/nar/gky105*
+
+Oct 2018
+:   **RNAcentral: a hub of information for non-coding RNA sequences** \
+    The RNAcentral Constortium \
+    *Nucleic Acids Research.  https://doi.org/10.1093/nar/gky1034*
+
 Book Chapters
 -------------
 
