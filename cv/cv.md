@@ -428,6 +428,12 @@ Oct 2018
     The RNAcentral Constortium \
     *Nucleic Acids Research.  https://doi.org/10.1093/nar/gky1034*
 
+Nov 2018
+:   **Hidden in plain sight: What remains to be discovered in the
+    eukaryotic proteome?** \
+    V. Wood, A. Lock, M. Harris, K. Rutherford, J. Bahler, S Oliver \
+    *bioRxiv pre-print: https://doi.org/10.1101/469569*
+
 Book Chapters
 -------------
 
