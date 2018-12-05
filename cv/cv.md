@@ -120,6 +120,15 @@ Publications
 <span style="color: grey">&#9679;</span> [Europe PMC](http://europepmc.org/authors/0000-0001-6277-726X)
  </div>
  
+Dec 2018
+:   **Stress, novel sex genes and epigenetic reprogramming orchestrate
+    socially-controlled sex change** \
+    E.V. Todd, O. Ortega-Recalde, H. Liu, M.S. Lamm, K.M. Rutherford,
+    H. Cross, M.A. Black, O. Kardailsky, J.A. Graves, T.A. Hore,
+    J.R. Godwin, N.J. Gemmell \
+    *bioRxiv pre-print: https://doi.org/10.1101/481143*
+
+
 Nov 2018
 :   **Hidden in plain sight: What remains to be discovered in the
     eukaryotic proteome?** \
