@@ -302,7 +302,10 @@ Sep 2012
 
 Jan 2012
 :    **modMine: flexible access to modENCODE data.**\
-                S. Contrino, R.N. Smith, D. Butano, A. Carr, F. Hu, R. Lyne, K. Rutherford, A. Kalderimis, J. Sullivan, S. Carbon, E.T. Kephart, P. Lloyd, E.O. Stinson, N.L. Washington, M.D. Perry, P. Ruzanov, Z. Zha, S.E. Lewis, L.D. Stein, G. Micklem \
+     S. Contrino, R.N. Smith, D. Butano, A. Carr, F. Hu, R. Lyne,
+     K. Rutherford, A. Kalderimis, J. Sullivan,
+     S. Carbon, E.T. Kephart, P. Lloyd, E.O. Stinson, N.L. Washington,
+     M.D. Perry, P. Ruzanov, Z. Zha, S.E. Lewis, L.D. Stein, G. Micklem \
      *Nucleic Acids Res. 2012 Jan;40(Database issue):D1082-8. [10.1093/nar/gkr921](https://doi.org/10.1093/nar/gkr921)*
 
 Jan 2012
@@ -371,9 +374,9 @@ Jan 2004
 
 Nov 2003
 :    **The complete genome sequence and analysis of *Corynebacterium diphtheriae*
-     NCTC13129.  [10.1093/nar/gkg874](https://doi.org/10.1093/nar/gkg874)** \
+     NCTC13129. ** \
      A. Cerdeño‐Tárraga *et al.* \
-     *Nucleic Acids Res. 2003 Nov 15;31(22):6516-23.*
+     *Nucleic Acids Res. 2003 Nov 15;31(22):6516-23. [10.1093/nar/gkg874](https://doi.org/10.1093/nar/gkg874)*
 
 Aug 2003
 :    **The DNA sequence of chromosome I of an African trypanosome: Gene
