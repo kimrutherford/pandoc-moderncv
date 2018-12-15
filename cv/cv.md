@@ -134,24 +134,24 @@ Dec 2018
     E.V. Todd, O. Ortega-Recalde, H. Liu, M.S. Lamm, K.M. Rutherford,
     H. Cross, M.A. Black, O. Kardailsky, J.A. Graves, T.A. Hore,
     J.R. Godwin, N.J. Gemmell \
-    *bioRxiv pre-print: [doi.org/10.1101/481143](https://doi.org/10.1101/481143)*
+    *bioRxiv pre-print: [10.1101/481143](https://doi.org/10.1101/481143)*
 
 
 Nov 2018
 :   **Hidden in plain sight: What remains to be discovered in the
     eukaryotic proteome?** \
     V. Wood, A. Lock, M. Harris, K. Rutherford, J. Bahler, S Oliver \
-    *bioRxiv pre-print: [doi.org/10.1101/469569](https://doi.org/10.1101/469569)*
+    *bioRxiv pre-print: [10.1101/469569](https://doi.org/10.1101/469569)*
 
 Oct 2018
 :   **RNAcentral: a hub of information for non-coding RNA sequences** \
     The RNAcentral Constortium \
-    *Nucleic Acids Research.  [doi.org/10.1093/nar/gky1034](https://doi.org/10.1093/nar/gky1034)*
+    *Nucleic Acids Research.  [10.1093/nar/gky1034](https://doi.org/10.1093/nar/gky1034)*
 
 Oct 2018
 :   **The Gene Ontology Resource: 20 years and still GOing strong** \
     The Gene Ontology Consortium \
-    *Nucleic Acids Research.  [doi.org/10.1093/nar/gky1055](https://doi.org/10.1093/nar/gky1055)*
+    *Nucleic Acids Research.  [10.1093/nar/gky1055](https://doi.org/10.1093/nar/gky1055)*
 
 Oct 2018
 :   **PomBase 2018: user-driven reimplementation of the fission yeast
@@ -159,7 +159,7 @@ Oct 2018
     interconnected information** \
     A. Lock, K. Rutherford, M.A. Harris, J Hayles, S.G. Oliver, J. Bähler,
     V. Wood \
-    *Nucleic Acids Research. [doi.org/10.1093/nar/gky961](https://doi.org/10.1093/nar/gky961)*
+    *Nucleic Acids Research. [10.1093/nar/gky961](https://doi.org/10.1093/nar/gky961)*
 
 Aug 2018
 :   **Evolutionary history of the podoplanin gene** \
@@ -334,7 +334,7 @@ July 2007
 Sep 2005
 :    **WebACT - An online companion for the Artemis Comparison Tool** \
      J. Abbott, D. Aanensen, K. Rutherford, S. Butcher and B. Spratt \
-     *Bioinformatics. 2005 Sep 15;21(18):3665-6. Epub 2005 Aug 2 [10.1093/bioinformatics/bti601](https://doi.org/10.1093/bioinformatics/bti601)*
+     *Bioinformatics. 2005 Sep 15;21(18):3665-6. [10.1093/bioinformatics/bti601](https://doi.org/10.1093/bioinformatics/bti601)*
 
 Aug 2005
 :    **ACT: the Artemis comparison tool.** \
@@ -344,7 +344,7 @@ Aug 2005
 June 2005
 :    **A Human-Curated Annotation of the *Candida albicans* Genome** \
      Braun *et al.* \
-     *PLoS Genet. 2005 Jul;1(1):36-57. Epub 2005 Jun 17*
+     *PLoS Genet. 2005 Jul;1(1):36-57. [10.1371/journal.pgen.0010001](https://doi.org/10.1371/journal.pgen.0010001)*
 
 Jan 2005
 :    **A comprehensive survey of the *Plasmodium* life cycle by genomic,
@@ -362,16 +362,16 @@ June 2004
 :    **Complete genomes of two clinical *Staphylococcus aureus* strains:
      Evidence for the rapid evolution of virulence and drug resistance.** \
      M. Holden *et al.* \
-     *Proc Natl Acad Sci U S A. 2004 Jun 29;101(26):9786-91*a
+     *Proc Natl Acad Sci U S A. 2004 Jun 29;101(26):9786-91 [10.1073/pnas.0402521101](https://doi.org/10.1073/pnas.0402521101)*
 
 Jan 2004
 :    **GeneDB: a resource for prokaryotic and eukaryotic organisms.** \
      Hertz-Fowler C *et al.* \
-     *Nucleic Acids Res. 2004 Jan 1;32(Database issue):D339-43.*
+     *Nucleic Acids Res. 2004 Jan 1;32(Database issue):D339-43. [10.1093/nar/gkh007](https://doi.org/10.1093/nar/gkh007)*
 
 Nov 2003
 :    **The complete genome sequence and analysis of *Corynebacterium diphtheriae*
-     NCTC13129.** \
+     NCTC13129.  [10.1093/nar/gkg874](https://doi.org/10.1093/nar/gkg874)** \
      A. Cerdeño‐Tárraga *et al.* \
      *Nucleic Acids Res. 2003 Nov 15;31(22):6516-23.*
 
@@ -379,12 +379,12 @@ Aug 2003
 :    **The DNA sequence of chromosome I of an African trypanosome: Gene
      content, chromosome organisation, recombination and polymorphism** \
      N. Hall *et al.* \
-     *Nucl. Acids Res. (2003) 31 (16): 4864-4873.*
+     *Nucl. Acids Res. (2003) 31 (16): 4864-4873. [PMC169939](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC169939/)*
 
 June 2003
 :    **Viewing and annotating sequence data with Artemis.** \
      M. Berriman and K. Rutherford \
-     *Brief Bioinform. 2003 Jun;4(2):124-32.*
+     *Brief Bioinform. 2003 Jun;4(2):124-32. [PMID:12846394](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.99.6409&rep=rep1&type=pdf)*
 
 Oct 2002
 :    **Genome sequence of the human malaria parasite *Plasmodium falciparum*.** \
@@ -394,13 +394,13 @@ Oct 2002
 Oct 2002
 :    **Sequence of *Plasmodium falciparum* chromosomes 1, 3–9 and 13.** \
      N. Hall *et al.* \
-     *Nature. 2002 Oct 3;419(6906):527-31.*
+     *Nature. 2002 Oct 3;419(6906):527-31. [10.1038/nature01095](https://doi.org/10.1038/nature01095)*
 
 May 2002
 :    **Complete genome sequence of the model actinomycete *Streptomyces coelicolor*
      A3(2).** \
      S. Bentley *et al.* \
-     *Nature. 2002 May 9;417(6885):141-7.*
+     *Nature. 2002 May 9;417(6885):141-7. [10.1038/417141a](https://doi.org/10.1038/417141a)*
 
 Feb 2002
 :    **The genome sequence of *Schizosaccharomyces pombe*.** \
@@ -411,7 +411,7 @@ Oct 2001
 :    **Complete genome sequence of a multiple drug resistant *Salmonella
      enterica* serovar Typhi CT18.** \
      J. Parkhill *et al.* \
-     *Nature. 2001 Oct 25;413(6858):848-52.*
+     *Nature. 2001 Oct 25;413(6858):848-52. [10.1038/35101607](https://doi.org/10.1038/35101607)*
 
 Oct 2001
 :    **Genome sequence of *Yersinia pestis*, the causative agent of plague.** \
@@ -438,7 +438,7 @@ Sep 2000
 :    **Analysis of 114 kb of DNA sequence from fission yeast
      chromosome 2 immediately centromere‐distal to _his5_.** \
      Z. Xiang *et al.* \
-     *Yeast 16: 1405–1411.*
+     *Yeast 16: 1405–1411. [full text](https://doi.org/10.1002/1097-0061\(200011\)16:15%3C1405::AID-YEA625%3E3.0.CO;2-H)*
 
 Mar 2000
 :    **Complete DNA sequence of a serogroup A strain of *Neisseria meningitidis* Z2491.** \
@@ -459,4 +459,4 @@ Apr 2018
 :   **PomBase: The Scientific Resource for Fission Yeast** \
     "Eukaryotic Genomic Databases : Methods and Protocols" \
     A Lock, K Rutherford,  M.A. Harris, V. Wood \
-    *[Methods in Molecular Biology, vol 1757. doi: 10.1007/978-1-4939-7737-6_4](https://link.springer.com/protocol/10.1007/978-1-4939-7737-6_4)*
+    *Methods in Molecular Biology, vol 1757. [10.1007/978-1-4939-7737-6_4](https://link.springer.com/protocol/10.1007/978-1-4939-7737-6_4)*
