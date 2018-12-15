@@ -25,12 +25,12 @@ footer: |
 #  - [Kim Rutherford](https://plus.google.com/u/0/107862319404407594428)
 ---
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-98997285-3"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131009466-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'UA-98997285-3');
+  gtag('config', 'UA-131009466-1');
 </script>
 
 Profile
