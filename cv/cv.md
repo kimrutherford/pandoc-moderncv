@@ -142,7 +142,7 @@ Nov 2018
 :   **Hidden in plain sight: What remains to be discovered in the
     eukaryotic proteome?** \
     V. Wood, A. Lock, M. Harris, K. Rutherford, J. Bahler, S Oliver \
-    *bioRxiv pre-print: [10.1101/469569](https://doi.org/10.1101/469569)*
+    *Open Biology. [10.1098/rsob.180241](https://royalsocietypublishing.org/doi/full/10.1098/rsob.180241)*
 
 Oct 2018
 :   **RNAcentral: a hub of information for non-coding RNA sequences** \
@@ -302,7 +302,7 @@ Sep 2012
      *Bioinformatics. (2012) 28 (23):3163-3165. [10.1093/bioinformatics/bts577](https://doi.org/10.1093/bioinformatics/bts577)*
 
 Jan 2012
-:    **modMine: flexible access to modENCODE data.**\
+:    **modMine: flexible access to modENCODE data.** \
      S. Contrino, R.N. Smith, D. Butano, A. Carr, F. Hu, R. Lyne,
      K. Rutherford, A. Kalderimis, J. Sullivan,
      S. Carbon, E.T. Kephart, P. Lloyd, E.O. Stinson, N.L. Washington,
