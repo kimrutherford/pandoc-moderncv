@@ -128,7 +128,25 @@ Publications
 <span style="color: grey">&#9679;</span> [ORCID](http://orcid.org/0000-0001-6277-726X)
 <span style="color: grey">&#9679;</span> [Europe PMC](http://europepmc.org/authors/0000-0001-6277-726X)
  </div>
- 
+
+Mar 2019
+:   **DNA from mollusc shell - a valuable and underutilised substrate for genetic analyses** \
+    S. Ferreira, R. Ashby, G.-J. Jeunen, K. Rutherford, C. Collins, E. Todd, N. Gemmell \
+    *In review*
+
+Mar 2019
+:   **Molecular structure of sauropsid β-keratins from tuatara (_Sphenodon punctatus_)** \
+    D. Parry, R. Fraser, L. Alibardi, K. Rutherford, N. Gemmell \
+    *In review*
+
+Jan 2019
+:   **PomBase 2018: user-driven reimplementation of the fission yeast
+    database provides rapid and intuitive access to diverse,
+    interconnected information** \
+    A. Lock, K. Rutherford, M.A. Harris, J Hayles, S.G. Oliver, J. Bähler,
+    V. Wood \
+    *Nucleic Acids Research. [10.1093/nar/gky961](https://doi.org/10.1093/nar/gky961)*
+
 Dec 2018
 :   **Stress, novel sex genes and epigenetic reprogramming orchestrate
     socially-controlled sex change** \
@@ -153,14 +171,6 @@ Oct 2018
 :   **The Gene Ontology Resource: 20 years and still GOing strong** \
     The Gene Ontology Consortium \
     *Nucleic Acids Research.  [10.1093/nar/gky1055](https://doi.org/10.1093/nar/gky1055)*
-
-Oct 2018
-:   **PomBase 2018: user-driven reimplementation of the fission yeast
-    database provides rapid and intuitive access to diverse,
-    interconnected information** \
-    A. Lock, K. Rutherford, M.A. Harris, J Hayles, S.G. Oliver, J. Bähler,
-    V. Wood \
-    *Nucleic Acids Research. [10.1093/nar/gky961](https://doi.org/10.1093/nar/gky961)*
 
 Aug 2018
 :   **Evolutionary history of the podoplanin gene** \
