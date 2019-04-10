@@ -4,8 +4,8 @@ title: Software Development and Bioinformatics
 title-prefix: Kim Rutherford
 firstname: Kim
 lastname: Rutherford
-homepage: https://kmr.bioinformatics.nz
-email: kmr@bioinformatics.nz
+homepage: https://kmr.nz
+email: kmr@kmr.nz
 mobile: '+64 212508293'
 address:
   city: Dunedin
@@ -19,7 +19,7 @@ settings:
 footer: |
   - [kim_rutherford](http://twitter.com/kim_rutherford)
   - [kimrutherford](https://github.com/kimrutherford)
-  - [kmr.bioinformatics.nz](https://kmr.bioinformatics.nz)
+  - [kmr.bioinformatics.nz](https://kmr.nz)
   - [keybase.io/kmr](https://keybase.io/kmr)
   - Skype: kim_rutherford
 #  - [Kim Rutherford](https://plus.google.com/u/0/107862319404407594428)
