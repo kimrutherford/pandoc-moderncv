@@ -137,7 +137,7 @@ Mar 2019
 Mar 2019
 :   **Molecular structure of sauropsid β-keratins from tuatara (_Sphenodon punctatus_)** \
     D. Parry, R. Fraser, L. Alibardi, K. Rutherford, N. Gemmell \
-    *In review*
+    *In press JSB, [10.1016/j.jsb.2019.04.008](https://doi.org/10.1016/j.jsb.2019.04.008)*
 
 Jan 2019
 :   **PomBase 2018: user-driven reimplementation of the fission yeast
@@ -154,7 +154,6 @@ Dec 2018
     H. Cross, M.A. Black, O. Kardailsky, J.A. Graves, T.A. Hore,
     J.R. Godwin, N.J. Gemmell \
     *bioRxiv pre-print: [10.1101/481143](https://doi.org/10.1101/481143)*
-
 
 Nov 2018
 :   **Hidden in plain sight: What remains to be discovered in the
