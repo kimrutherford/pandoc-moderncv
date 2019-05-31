@@ -137,7 +137,7 @@ Mar 2019
 Mar 2019
 :   **Molecular structure of sauropsid β-keratins from tuatara (_Sphenodon punctatus_)** \
     D. Parry, R. Fraser, L. Alibardi, K. Rutherford, N. Gemmell \
-    *In press JSB, [10.1016/j.jsb.2019.04.008](https://doi.org/10.1016/j.jsb.2019.04.008)*
+    *J. Struct. Biol. 207, 21-28. [10.1016/j.jsb.2019.04.008](https://doi.org/10.1016/j.jsb.2019.04.008)*
 
 Jan 2019
 :   **PomBase 2018: user-driven reimplementation of the fission yeast
