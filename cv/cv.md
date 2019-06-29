@@ -53,7 +53,7 @@ Work experience
 ---------------
 
 
-June 2010 – Present
+<span class="nobr">June 2010</span> – <span class="nobr">Present</span>
 :    **Programmer** *S. pombe genome database (PomBase)* \
      Department of Biochemistry, University of Cambridge
 
@@ -65,7 +65,7 @@ June 2010 – Present
       ~ [Canto](https://curation.pombase.org) - a community curation tool
       ~ [PomBase v2](https://www.pombase.org)
 
-Sept 2012 – Dec 2016
+<span class="nobr">Sept 2012</span> – <span class="nobr">Dec 2016</span>
 :    **Scientific Officer** (part time) *Gemmell lab* \
      Department of Anatomy, University of Otago
 
@@ -75,7 +75,7 @@ Sept 2012 – Dec 2016
       ~ mentoring / training of group members in bioinformatics
       ~ [tuatara](https://en.wikipedia.org/wiki/Tuatara) [genome project](http://gemmell-lab.otago.ac.nz/research-projects/current-research-projects/1-sequencing-a-living-fossil-the-tuatara-genome-project)
 
-Feb 2009 – June 2010
+<span class="nobr">Feb 2009</span> – <span class="nobr">June 2010</span>
 :    **Computer Associate** *Baulcombe Group* \
      Department of Plant Sciences, University of Cambridge
 
@@ -83,7 +83,7 @@ Feb 2009 – June 2010
       ~ bioinformatics support
       ~ creation of a short read analysis pipeline
 
-Sept 2007 – Feb 2009
+<span class="nobr">Sept 2007</span> – <span class="nobr">Feb 2009</span>
 :    **Programmer** *modENCODE Data Coordination Center* \
      Cambridge Systems Biology Centre
 
@@ -91,14 +91,14 @@ Sept 2007 – Feb 2009
       ~ helped create the data warehouse for the modENCODE project: \
         [modMine](http://intermine.modencode.org/)
 
-Feb 2004 – Sept 2007
+<span class="nobr">Feb 2004</span> – <span class="nobr">Sept 2007</span>
 :    **Programmer** *FlyMine/InterMine group* \
      Department of Genetics, University of Cambridge
 
     Tasks
       ~ Java programming for the [InterMine](http://intermine.org) project
 
-Oct 2001 – Feb 2004
+<span class="nobr">Oct 2001</span> – <span class="nobr">Feb 2004</span>
 :    **Principal Computer Programmer** *Pathogen Sequencing Unit* \
      The Sanger Institute
 
@@ -109,11 +109,11 @@ Oct 2001 – Feb 2004
       ~ [Artemis](http://www.sanger.ac.uk/science/tools/artemis) - a genome analysis and annotation tool
       ~ [ACT](http://www.sanger.ac.uk/science/tools/artemis-comparison-tool-act) - a genome comparison viewer
 
-Apr 1999 – Oct 2001
+<span class="nobr">Apr 1999</span> – <span class="nobr">Oct 2001</span>
 :    **Senior Computer Programmer** *Pathogen Sequencing Unit* \
      The Sanger Institute
 
-Sept 1998 – Apr 1999
+<span class="nobr">Sept 1998</span> – <span class="nobr">Apr 1999</span>
 :    **Computer Programmer** *Pathogen Sequencing Unit* \
      The Sanger Institute
 

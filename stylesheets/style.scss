@@ -16,6 +16,25 @@ body {
     padding: $grid-padding;
 }
 
+@media (min-width: 801px) and (max-width: 1000px) {
+  body {
+    padding: 1vw;
+  }
+  section.level2 {
+    font-size: 1.8vw;
+    line-height: normal;
+  }
+}
+@media (max-width: 800px) {
+  body {
+    padding: 0.8vw;
+  }
+  section.level2 {
+    font-size: 0.8em;
+    line-height: normal;
+  }
+}
+
 /* fonts */
 
 body { font-family: "Palatino", sans-serif; }
@@ -157,7 +176,7 @@ header {
 }
 
 .level2 {
-   font-size: 100%;
+   font-size: 120%;
 }
 
 /* Section */
@@ -214,13 +233,13 @@ section {
     }
 
     dt {
-        @include span(2.5 of $total-columns);
+        @include span(2.6 of $total-columns);
         text-align: right;
         clear: both;
     }
 
     dd {
-        @include span(last 9.4 of $total-columns);
+        @include span(last 9.3 of $total-columns);
 
         dt {
             font-style: italic;
@@ -313,3 +332,6 @@ footer {
 section dl dl {
     padding: 10px;
 }
+
+// kmr:
+.nobr   { white-space:nowrap; }
