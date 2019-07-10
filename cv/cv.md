@@ -153,7 +153,7 @@ Dec 2018
     E.V. Todd, O. Ortega-Recalde, H. Liu, M.S. Lamm, K.M. Rutherford,
     H. Cross, M.A. Black, O. Kardailsky, J.A. Graves, T.A. Hore,
     J.R. Godwin, N.J. Gemmell \
-    *bioRxiv pre-print: [10.1101/481143](https://doi.org/10.1101/481143)*
+    *Science Advances Vol. 5, no. 7 [10.1126/sciadv.aaw7006](https://doi.org/10.1126/sciadv.aaw7006)*
 
 Nov 2018
 :   **Hidden in plain sight: What remains to be discovered in the
