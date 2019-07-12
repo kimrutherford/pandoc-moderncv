@@ -130,11 +130,6 @@ Publications
  </div>
 
 Mar 2019
-:   **DNA from mollusc shell - a valuable and underutilised substrate for genetic analyses** \
-    S. Ferreira, R. Ashby, G.-J. Jeunen, K. Rutherford, C. Collins, E. Todd, N. Gemmell \
-    *In review*
-
-Mar 2019
 :   **Molecular structure of sauropsid β-keratins from tuatara (_Sphenodon punctatus_)** \
     D. Parry, R. Fraser, L. Alibardi, K. Rutherford, N. Gemmell \
     *J. Struct. Biol. 207, 21-28. [10.1016/j.jsb.2019.04.008](https://doi.org/10.1016/j.jsb.2019.04.008)*
