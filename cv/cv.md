@@ -121,13 +121,13 @@ Work experience
 Publications
 ------------
 
-<div style="float: right; font-size: 90%;">
-<span style="color: grey">&#9679;</span> [Scopus profile](http://www.scopus.com/authid/detail.uri?authorId=7007171631) 
-<span style="color: grey">&#9679;</span> [Google Scholar](https://scholar.google.co.nz/citations?hl=en&user=63wyizYAAAAJ&view_op=list_works&sortby=pubdate)
-<span style="color: grey">&#9679;</span> [ResearcherID](https://www.researcherid.com/rid/Y-7995-2018)
-<span style="color: grey">&#9679;</span> [ORCID](http://orcid.org/0000-0001-6277-726X)
-<span style="color: grey">&#9679;</span> [Europe PMC](http://europepmc.org/authors/0000-0001-6277-726X)
- </div>
+<div style="float: right; font-size: 90%; padding: 0.2em 0 0 0;">
+  <span style="color: grey">&#9679;</span> [Google Scholar](https://scholar.google.co.nz/citations?hl=en&user=63wyizYAAAAJ&view_op=list_works&sortby=pubdate)
+  <span style="color: grey">&#9679;</span> [ORCID](http://orcid.org/0000-0001-6277-726X)
+  <span style="color: grey">&#9679;</span> [Europe PMC](http://europepmc.org/authors/0000-0001-6277-726X)
+  <span style="color: grey">&#9679;</span> [ResearcherID](https://www.researcherid.com/rid/Y-7995-2018)
+  <span style="color: grey">&#9679;</span> [Scopus profile](http://www.scopus.com/authid/detail.uri?authorId=7007171631) 
+</div>
 
 Mar 2019
 :   **Molecular structure of sauropsid β-keratins from tuatara (_Sphenodon punctatus_)** \
