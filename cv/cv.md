@@ -129,6 +129,13 @@ Publications
   <span style="color: grey">&#9679;</span> [Scopus profile](http://www.scopus.com/authid/detail.uri?authorId=7007171631) 
 </div>
 
+Nov 2019
+:   **PHI-base: the pathogen–host interactions database** \
+    M. Urban, A. Cuzick, J. Seager, V. Wood, K. Rutherford, S. Yagwakote Venkatesh,
+    N. De Silva, M. Carbajo Martinez, H. Pedro, A.D. Yates, K. Hassani-Pak,
+    K.E. Hammond-Kosack \
+    *Nucleic Acids Research. [10.1093/nar/gkz904](https://doi.org/10.1093/nar/gkz904)*
+
 Mar 2019
 :   **Molecular structure of sauropsid β-keratins from tuatara (_Sphenodon punctatus_)** \
     D. Parry, R. Fraser, L. Alibardi, K. Rutherford, N. Gemmell \
