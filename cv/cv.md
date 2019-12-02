@@ -19,7 +19,6 @@ settings:
 footer: |
   - [kimrutherford](https://github.com/kimrutherford)
   - [kmr.nz](https://kmr.nz)
-  - [keybase.io/kmr](https://keybase.io/kmr)
   - [kim_rutherford](http://twitter.com/kim_rutherford)
   - Skype: kim_rutherford
 #  - [Kim Rutherford](https://plus.google.com/u/0/107862319404407594428)
