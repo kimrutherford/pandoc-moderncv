@@ -125,8 +125,15 @@ Publications
   <span style="color: grey">&#9679;</span> [ORCID](http://orcid.org/0000-0001-6277-726X)
   <span style="color: grey">&#9679;</span> [Europe PMC](http://europepmc.org/authors/0000-0001-6277-726X)
   <span style="color: grey">&#9679;</span> [ResearcherID](https://www.researcherid.com/rid/Y-7995-2018)
-  <span style="color: grey">&#9679;</span> [Scopus profile](http://www.scopus.com/authid/detail.uri?authorId=7007171631) 
+  <span style="color: grey">&#9679;</span> [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=7007171631)
 </div>
+
+Dec 2019
+:   **The tuatara genome: insights into vertebrate evolution from the
+    sole survivor of an ancient reptilian order** \
+    N. Gemmell, K. Rutherford, S. Prost, M. Tollis, D.J. Winter, J.R.Macey,
+    D.L. Adelson, A. Suh, T. Bertozzi, J. Grau, C. Organ, P. Gardner, *et al.* \
+    *bioRxiv preprint [10.1101/867069](https://www.biorxiv.org/content/10.1101/867069v1)*
 
 Nov 2019
 :   **PHI-base: the pathogen–host interactions database** \
