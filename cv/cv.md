@@ -128,6 +128,13 @@ Publications
   <span style="color: grey">&#9679;</span> [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=7007171631)
 </div>
 
+Jan 2020
+:   **Community curation in PomBase: enabling fission yeast experts
+    to provide detailed, standardized, sharable annotation from
+    research publications** \
+    A. Lock, M. Harris, K. Rutherford, J. Hayles, V. Wood \
+    *Submitted*
+
 Dec 2019
 :   **The tuatara genome: insights into vertebrate evolution from the
     sole survivor of an ancient reptilian order** \
