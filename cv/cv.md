@@ -65,7 +65,7 @@ Work experience
       ~ [PomBase v2](https://www.pombase.org)
 
 <span class="nobr">Sept 2012</span> – <span class="nobr">Dec 2016</span>
-:    **Scientific Officer** (part time) *Gemmell lab* \
+:    **Scientific Officer** (part time) *Gemmell Group* \
      Department of Anatomy, University of Otago
 
     Tasks
