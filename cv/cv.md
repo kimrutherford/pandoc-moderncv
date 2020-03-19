@@ -133,7 +133,7 @@ Jan 2020
     to provide detailed, standardized, sharable annotation from
     research publications** \
     A. Lock, M. Harris, K. Rutherford, J. Hayles, V. Wood \
-    *Submitted*
+    *Under review*
 
 Dec 2019
 :   **The tuatara genome: insights into vertebrate evolution from the
