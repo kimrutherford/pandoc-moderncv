@@ -21,6 +21,8 @@ footer: |
   - [kmr.nz](https://kmr.nz)
   - [kim_rutherford](http://twitter.com/kim_rutherford)
   - Skype: kim_rutherford
+#  <br/>
+#  - Mastodon: <a rel="me" href="https://mastodon.nzoss.nz/@kmr">@kmr@mastodon.nzoss.nz</a>
 #  - [Kim Rutherford](https://plus.google.com/u/0/107862319404407594428)
 ---
 
