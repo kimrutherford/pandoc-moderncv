@@ -130,6 +130,12 @@ Publications
   <span style="display: inline-block"><span style="color: grey;">&#9679;</span> [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=7007171631)</span>
 </div>
 
+Apr 2020
+:   **Term Matrix: A novel Gene Ontology annotation quality control
+    system based on ontology term co-annotation patterns** \
+    V. Wood *at al.* \
+    *bioRxiv preprint [10.1101/2020.04.21.045195](https://doi.org/10.1101/2020.04.21.045195)*
+
 Jan 2020
 :   **Community curation in PomBase: enabling fission yeast experts
     to provide detailed, standardized, sharable annotation from
