@@ -136,7 +136,7 @@ Apr 2020
     V. Wood *at al.* \
     *bioRxiv preprint [10.1101/2020.04.21.045195](https://doi.org/10.1101/2020.04.21.045195)*
 
-Jan 2020
+Apr 2020
 :   **Community curation in PomBase: enabling fission yeast experts
     to provide detailed, standardized, sharable annotation from
     research publications** \
