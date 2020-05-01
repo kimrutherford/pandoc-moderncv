@@ -141,14 +141,14 @@ Jan 2020
     to provide detailed, standardized, sharable annotation from
     research publications** \
     A. Lock, M. Harris, K. Rutherford, J. Hayles, V. Wood \
-    *In press*
+    *DATABASE [10.1093/database/baaa028](https://doi.org/10.1093/database/baaa028)*
 
 Dec 2019
 :   **The tuatara genome: insights into vertebrate evolution from the
     sole survivor of an ancient reptilian order** \
     N. Gemmell, K. Rutherford, S. Prost, M. Tollis, D.J. Winter, J.R.Macey,
     D.L. Adelson, A. Suh, T. Bertozzi, J. Grau, C. Organ, P. Gardner, *et al.* \
-    *Under review (bioRxiv preprint [10.1101/867069](https://doi.org/10.1101/867069)\)*
+    *In review (bioRxiv preprint [10.1101/867069](https://doi.org/10.1101/867069)\)*
 
 Nov 2019
 :   **PHI-base: the pathogen–host interactions database** \
