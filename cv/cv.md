@@ -130,6 +130,11 @@ Publications
   <span style="display: inline-block"><span style="color: grey;">&#9679;</span> [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=7007171631)</span>
 </div>
 
+July 2020
+:   **DNA from mollusc shell: a valuable and underutilised substrate for genetic analyses** \
+    S. Ferreira *at al.* \
+    *PeerJ [10.7717/peerj.9420](https://doi.org/10.7717/peerj.9420)*
+
 Apr 2020
 :   **Term Matrix: A novel Gene Ontology annotation quality control
     system based on ontology term co-annotation patterns** \
