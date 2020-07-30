@@ -153,7 +153,7 @@ Dec 2019
     sole survivor of an ancient reptilian order** \
     N. Gemmell, K. Rutherford, S. Prost, M. Tollis, D.J. Winter, J.R.Macey,
     D.L. Adelson, A. Suh, T. Bertozzi, J. Grau, C. Organ, P. Gardner, *et al.* \
-    *In press - bioRxiv preprint [10.1101/867069](https://doi.org/10.1101/867069)*
+    *bioRxiv preprint [10.1101/867069](https://doi.org/10.1101/867069)*
 
 Nov 2019
 :   **PHI-base: the pathogen–host interactions database** \
