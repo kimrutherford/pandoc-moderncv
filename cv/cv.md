@@ -132,7 +132,7 @@ Publications
 
 July 2020
 :   **DNA from mollusc shell: a valuable and underutilised substrate for genetic analyses** \
-    S. Ferreira, R. Ashby, G-J. Jeunen, K. Rutherford, Catherine Collins1, E.V. Todd, N.J. Gemmell \
+    S. Ferreira, R. Ashby, G-J. Jeunen, K. Rutherford, C. Collins, E.V. Todd, N.J. Gemmell \
     *PeerJ [10.7717/peerj.9420](https://doi.org/10.7717/peerj.9420)*
 
 Apr 2020
