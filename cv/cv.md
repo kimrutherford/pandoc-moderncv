@@ -130,6 +130,14 @@ Publications
   <span style="display: inline-block"><span style="color: grey;">&#9679;</span> [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=7007171631)</span>
 </div>
 
+
+Dec 2019
+:   **The tuatara genome: insights into vertebrate evolution from the
+    sole survivor of an ancient reptilian order** \
+    N. Gemmell, K. Rutherford, S. Prost, M. Tollis, D.J. Winter, J.R.Macey,
+    D.L. Adelson, A. Suh, T. Bertozzi, J. Grau, C. Organ, P. Gardner, *et al.* \
+    *Nature [10.1038/s41586-020-2561-9](https://doi.org/10.1038/s41586-020-2561-9)*
+
 July 2020
 :   **DNA from mollusc shell: a valuable and underutilised substrate for genetic analyses** \
     S. Ferreira, R. Ashby, G-J. Jeunen, K. Rutherford, C. Collins, E.V. Todd, N.J. Gemmell \
@@ -147,13 +155,6 @@ Apr 2020
     research publications** \
     A. Lock, M. Harris, K. Rutherford, J. Hayles, V. Wood \
     *Database [10.1093/database/baaa028](https://doi.org/10.1093/database/baaa028)*
-
-Dec 2019
-:   **The tuatara genome: insights into vertebrate evolution from the
-    sole survivor of an ancient reptilian order** \
-    N. Gemmell, K. Rutherford, S. Prost, M. Tollis, D.J. Winter, J.R.Macey,
-    D.L. Adelson, A. Suh, T. Bertozzi, J. Grau, C. Organ, P. Gardner, *et al.* \
-    *bioRxiv preprint [10.1101/867069](https://doi.org/10.1101/867069)*
 
 Nov 2019
 :   **PHI-base: the pathogen–host interactions database** \
