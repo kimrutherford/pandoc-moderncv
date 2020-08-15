@@ -132,8 +132,7 @@ Publications
 
 
 Aug 2020
-:   **The tuatara genome: insights into vertebrate evolution from the
-    sole survivor of an ancient reptilian order** \
+:   **The tuatara genome reveals ancient features of amniote evolution** \
     N. Gemmell, K. Rutherford, S. Prost, M. Tollis, D.J. Winter, J.R.Macey,
     D.L. Adelson, A. Suh, T. Bertozzi, J. Grau, C. Organ, P. Gardner, *et al.* \
     *Nature [10.1038/s41586-020-2561-9](https://doi.org/10.1038/s41586-020-2561-9)*
