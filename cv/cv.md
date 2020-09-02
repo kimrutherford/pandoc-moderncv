@@ -131,6 +131,12 @@ Publications
 </div>
 
 
+Sep 2020
+:   **Term Matrix: A novel Gene Ontology annotation quality control
+    system based on ontology term co-annotation patterns** \
+    V. Wood *at al.* \
+    *Open Biology [10.1098/rsob.200149](https://doi.org/10.1098/rsob.200149)*
+
 Aug 2020
 :   **The tuatara genome reveals ancient features of amniote evolution** \
     N. Gemmell, K. Rutherford, S. Prost, M. Tollis, D.J. Winter, J.R.Macey,
@@ -141,12 +147,6 @@ July 2020
 :   **DNA from mollusc shell: a valuable and underutilised substrate for genetic analyses** \
     S. Ferreira, R. Ashby, G-J. Jeunen, K. Rutherford, C. Collins, E.V. Todd, N.J. Gemmell \
     *PeerJ [10.7717/peerj.9420](https://doi.org/10.7717/peerj.9420)*
-
-Apr 2020
-:   **Term Matrix: A novel Gene Ontology annotation quality control
-    system based on ontology term co-annotation patterns** \
-    V. Wood *at al.* \
-    *bioRxiv preprint [10.1101/2020.04.21.045195](https://doi.org/10.1101/2020.04.21.045195)*
 
 Apr 2020
 :   **Community curation in PomBase: enabling fission yeast experts
