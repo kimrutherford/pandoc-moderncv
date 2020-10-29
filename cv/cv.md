@@ -130,6 +130,11 @@ Publications
   <span style="display: inline-block"><span style="color: grey;">&#9679;</span> [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=7007171631)</span>
 </div>
 
+Nov 2020
+:   **Dense sampling of bird diversity increases power of comparative
+    genomics** \
+    S. Feng *et al.* \
+    *Nature - in press*
 
 Sep 2020
 :   **Term Matrix: A novel Gene Ontology annotation quality control
