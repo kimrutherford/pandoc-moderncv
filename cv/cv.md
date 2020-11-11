@@ -134,7 +134,7 @@ Nov 2020
 :   **Dense sampling of bird diversity increases power of comparative
     genomics** \
     S. Feng *et al.* \
-    *Nature - in press*
+    *Nature [10.1038/s41586-020-2873-9](https://doi.org/10.1038/s41586-020-2873-9)*
 
 Sep 2020
 :   **Term Matrix: A novel Gene Ontology annotation quality control
