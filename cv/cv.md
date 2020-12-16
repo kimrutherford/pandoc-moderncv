@@ -130,6 +130,13 @@ Publications
   <span style="display: inline-block"><span style="color: grey;">&#9679;</span> [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=7007171631)</span>
 </div>
 
+Dec 2020
+:   **A genome-wide investigation of adaptive signatures in
+    protein-coding genes related to tool behaviour in New Caledonian
+    and Hawaiian crows** \
+    N. Dussex *et al.* \
+    *Molecular Ecology [DOI: 10.1111/mec.15775](https://doi.org/10.1111/mec.15775)*
+
 Nov 2020
 :   **Dense sampling of bird diversity increases power of comparative
     genomics** \
