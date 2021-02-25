@@ -130,6 +130,11 @@ Publications
   <span style="display: inline-block"><span style="color: grey;">&#9679;</span> [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=7007171631)</span>
 </div>
 
+Jan 2021
+:   **The Gene Ontology resource: enriching a GOld mine** \
+    The Gene Ontology Consortium \
+    *Nucleic Acids Research. [DOI: 10.1093/nar/gkaa1113](https://doi.org/10.1093/nar/gkaa1113)*
+
 Dec 2020
 :   **A genome-wide investigation of adaptive signatures in
     protein-coding genes related to tool behaviour in New Caledonian
