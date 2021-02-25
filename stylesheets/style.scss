@@ -88,6 +88,11 @@ header {
         color: $title-color;
     }
 
+    section > p, section > ul {
+      width: auto;
+      padding-left: 1em;
+    }
+
     [itemprop='address'] { color: $address-color; }
 
     // xs to small
