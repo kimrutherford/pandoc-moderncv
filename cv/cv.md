@@ -130,17 +130,17 @@ Publications
   <span style="display: inline-block"><span style="color: grey;">&#9679;</span> [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=7007171631)</span>
 </div>
 
-Jan 2021
-:   **The Gene Ontology resource: enriching a GOld mine** \
-    The Gene Ontology Consortium \
-    *Nucleic Acids Research. [DOI: 10.1093/nar/gkaa1113](https://doi.org/10.1093/nar/gkaa1113)*
-
-Dec 2020
+Feb 2021
 :   **A genome-wide investigation of adaptive signatures in
     protein-coding genes related to tool behaviour in New Caledonian
     and Hawaiian crows** \
     N. Dussex *et al.* \
     *Molecular Ecology. [DOI: 10.1111/mec.15775](https://doi.org/10.1111/mec.15775)*
+
+Jan 2021
+:   **The Gene Ontology resource: enriching a GOld mine** \
+    The Gene Ontology Consortium \
+    *Nucleic Acids Research. [DOI: 10.1093/nar/gkaa1113](https://doi.org/10.1093/nar/gkaa1113)*
 
 Nov 2020
 :   **Dense sampling of bird diversity increases power of comparative
@@ -172,7 +172,7 @@ Apr 2020
     A. Lock, M. Harris, K. Rutherford, J. Hayles, V. Wood \
     *Database. [DOI10.1093/database/baaa028](https://doi.org/10.1093/database/baaa028)*
 
-Nov 2019
+Jan 2020
 :   **PHI-base: the pathogen–host interactions database** \
     M. Urban, A. Cuzick, J. Seager, V. Wood, K. Rutherford, S. Yagwakote Venkatesh,
     N. De Silva, M. Carbajo Martinez, H. Pedro, A.D. Yates, K. Hassani-Pak,
