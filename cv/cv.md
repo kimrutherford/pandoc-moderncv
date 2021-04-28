@@ -66,6 +66,12 @@ Work experience
       ~ [Canto](https://curation.pombase.org) - a community curation tool
       ~ [PomBase v2](https://www.pombase.org)
 
+    Secondments
+      ~ FlyBase - 3 months customising
+        [Canto](https://curation.pombase.org) for drosophila phenotypes
+      ~ PHI-base - 6 months adapting Canto for pathogen-host
+        interaction phenotype curation
+
 <span class="nobr">Sept 2012</span> – <span class="nobr">Dec 2016</span>
 :    **Scientific Officer** (part time) *Gemmell Group* \
      Department of Anatomy, University of Otago
