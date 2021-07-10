@@ -243,6 +243,17 @@ section {
         clear: both;
     }
 
+    dd dd {
+      margin-left: 1.5em;
+    }
+
+    dd dd::before {
+      content: '\203a';
+      padding: 0.5em;
+      color: #a0a0a0;
+      margin-left: -1.3em;
+    }
+
     dd {
         @include span(last 9.3 of $total-columns);
 
