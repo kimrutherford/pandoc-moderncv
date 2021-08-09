@@ -65,6 +65,7 @@ Work experience
     Major projects
       ~ [Canto](https://curation.pombase.org) - a community curation tool
       ~ [PomBase v2](https://www.pombase.org)
+      ~ [JaponicusDB](https://www.japonicusdb.org)
 
     Secondments
       ~ FlyBase - 3 months customising
