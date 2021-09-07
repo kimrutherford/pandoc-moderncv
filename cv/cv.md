@@ -131,8 +131,8 @@ Publications
 
 <div style="float: right; font-size: 90%; padding: 0.2em 0 0 0;">
   <span style="display: inline-block"><span style="color: grey;">&#9679;</span> [Google Scholar](https://scholar.google.co.nz/citations?hl=en&user=63wyizYAAAAJ&view_op=list_works&sortby=pubdate)</span>
-  <span style="display: inline-block"><span style="color: grey;">&#9679;</span> [ORCID](http://orcid.org/0000-0001-6277-726X)</span>
-  <span style="display: inline-block"><span style="color: grey;">&#9679;</span> [Europe PMC](http://europepmc.org/authors/0000-0001-6277-726X)</span>
+  <span style="display: inline-block"><span style="color: grey;">&#9679;</span> [ORCID](https://orcid.org/0000-0001-6277-726X)</span>
+  <span style="display: inline-block"><span style="color: grey;">&#9679;</span> [Europe PMC](https://europepmc.org/authors/0000-0001-6277-726X)</span>
   <span style="display: inline-block"><span style="color: grey;">&#9679;</span> [ResearcherID](https://www.researcherid.com/rid/Y-7995-2018)</span>
   <span style="display: inline-block"><span style="color: grey;">&#9679;</span> [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=7007171631)</span>
 </div>
