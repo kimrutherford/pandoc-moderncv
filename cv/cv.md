@@ -137,6 +137,17 @@ Publications
   <span style="display: inline-block"><span style="color: grey;">&#9679;</span> [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=7007171631)</span>
 </div>
 
+Sep 2021
+:   **JaponicusDB: Rapid deployment of a model organism database for
+    an emerging model species** \
+    K. Rutherford, M. Harris, S. Oliferenko, V. Wood \
+    *Preprint: [10.1101/2021.09.23.461587](https://doi.org/10.1101/2021.09.23.461587)*
+
+Sep 2021
+:   **Fission stories: Using PomBase to understand _Schizosaccharomyces pombe_ biology** \
+    M. Harris, K. Rutherford, J. Hayles, A. Lock, J. Bähler, S. Oliver, J. Mata, V. Wood
+    *Preprint: [10.1101/2021.09.07.459264](https://doi.org/10.1101/2021.09.07.459264)*
+
 Feb 2021
 :   **A genome-wide investigation of adaptive signatures in
     protein-coding genes related to tool behaviour in New Caledonian
