@@ -145,7 +145,7 @@ Sep 2021
 
 Sep 2021
 :   **Fission stories: Using PomBase to understand _Schizosaccharomyces pombe_ biology** \
-    M. Harris, K. Rutherford, J. Hayles, A. Lock, J. Bähler, S. Oliver, J. Mata, V. Wood
+    M. Harris, K. Rutherford, J. Hayles, A. Lock, J. Bähler, S. Oliver, J. Mata, V. Wood \
     *Preprint: [10.1101/2021.09.07.459264](https://doi.org/10.1101/2021.09.07.459264)*
 
 Feb 2021
