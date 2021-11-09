@@ -141,6 +141,7 @@ Sep 2021
 :   **JaponicusDB: Rapid deployment of a model organism database for
     an emerging model species** \
     K. Rutherford, M. Harris, S. Oliferenko, V. Wood \
+    *Genetics* (accepted, in press) \
     *Preprint: [10.1101/2021.09.23.461587](https://doi.org/10.1101/2021.09.23.461587)*
 
 Sep 2021
