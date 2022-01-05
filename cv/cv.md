@@ -145,14 +145,14 @@ Nov 2021
     *Preprint: [DOI: 10.1101/2021.09.23.461587](https://doi.org/10.1101/2021.09.23.461587)*
 
 Nov 2021
-:   **PHI-base in 2022: a multi-species phenotype database for Pathogen-Host Interactions** \
-    M. Urban *et al.* \
-    *NAR [DOI: 10.1093/nar/gkab1037](https://doi.org/10.1093/nar/gkab1037)*
-
-Sep 2021
 :   **Fission stories: Using PomBase to understand _Schizosaccharomyces pombe_ biology** \
     M. Harris, K. Rutherford, J. Hayles, A. Lock, J. Bähler, S. Oliver, J. Mata, V. Wood \
     *Preprint: [DOI: 10.1101/2021.09.07.459264](https://doi.org/10.1101/2021.09.07.459264)*
+
+Nov 2021
+:   **PHI-base in 2022: a multi-species phenotype database for Pathogen-Host Interactions** \
+    M. Urban *et al.* \
+    *NAR [DOI: 10.1093/nar/gkab1037](https://doi.org/10.1093/nar/gkab1037)*
 
 Feb 2021
 :   **A genome-wide investigation of adaptive signatures in
