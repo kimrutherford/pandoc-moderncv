@@ -137,17 +137,16 @@ Publications
   <span style="display: inline-block"><span style="color: grey;">&#9679;</span> [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=7007171631)</span>
 </div>
 
-Nov 2021
+Dec 2021
 :   **JaponicusDB: Rapid deployment of a model organism database for
     an emerging model species** \
     K. Rutherford, M. Harris, S. Oliferenko, V. Wood \
-    *Genetics* (accepted, in press) \
-    *Preprint: [DOI: 10.1101/2021.09.23.461587](https://doi.org/10.1101/2021.09.23.461587)*
+    *Genetics. [DOI: 10.1093/genetics/iyab223](https://doi.org/10.1093/genetics/iyab223)*
 
-Nov 2021
+Dec 2021
 :   **Fission stories: Using PomBase to understand _Schizosaccharomyces pombe_ biology** \
     M. Harris, K. Rutherford, J. Hayles, A. Lock, J. Bähler, S. Oliver, J. Mata, V. Wood \
-    *Preprint: [DOI: 10.1101/2021.09.07.459264](https://doi.org/10.1101/2021.09.07.459264)*
+    *Genetics. [DOI: doi.org/10.1093/genetics/iyab222](https://doi.org/10.1093/genetics/iyab222)*
 
 Nov 2021
 :   **PHI-base in 2022: a multi-species phenotype database for Pathogen-Host Interactions** \
