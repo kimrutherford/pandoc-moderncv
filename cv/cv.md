@@ -146,7 +146,7 @@ Dec 2021
 Dec 2021
 :   **Fission stories: Using PomBase to understand _Schizosaccharomyces pombe_ biology** \
     M. Harris, K. Rutherford, J. Hayles, A. Lock, J. Bähler, S. Oliver, J. Mata, V. Wood \
-    *Genetics. [DOI: doi.org/10.1093/genetics/iyab222](https://doi.org/10.1093/genetics/iyab222)*
+    *Genetics. [DOI: 10.1093/genetics/iyab222](https://doi.org/10.1093/genetics/iyab222)*
 
 Nov 2021
 :   **PHI-base in 2022: a multi-species phenotype database for Pathogen-Host Interactions** \
