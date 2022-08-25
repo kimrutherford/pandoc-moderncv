@@ -43,7 +43,7 @@ been helping biologists to capture, analyse and interpret genomic data.
 Skills and Experience
 ---------------------
 
-* Software development: web, desktop and server
+* Software development
 * Database administration and maintenance
 * Genome assembly, annotation and analysis
 * Processing, management and analysis of next generation sequencing data
