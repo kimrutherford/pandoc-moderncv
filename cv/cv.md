@@ -17,13 +17,10 @@ settings:
   protect-fax: true
   protect-homepage: false
 footer: |
-  - [kimrutherford](https://github.com/kimrutherford)
   - [kmr.nz](https://kmr.nz)
-  - [kim_rutherford](http://twitter.com/kim_rutherford)
+  - [kimrutherford](https://github.com/kimrutherford)
   - Skype: kim_rutherford
-#  <br/>
-#  - Mastodon: <a rel="me" href="https://mastodon.nzoss.nz/@kmr">@kmr@mastodon.nzoss.nz</a>
-#  - [Kim Rutherford](https://plus.google.com/u/0/107862319404407594428)
+#  - <a rel="me" href="https://mastodon.nz/@kmr">@kmr@mastodon.nz</a>
 ---
 
 <a style="display: none" rel="me" href="https://mastodon.nz/@kmr">@kmr@mastodon.nz</a>
