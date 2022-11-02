@@ -26,6 +26,8 @@ footer: |
 #  - [Kim Rutherford](https://plus.google.com/u/0/107862319404407594428)
 ---
 
+<a style="display: none" rel="me" href="https://mastodon.nz/@kmr">@kmr@mastodon.nz</a>
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131009466-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
