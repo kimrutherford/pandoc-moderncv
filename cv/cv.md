@@ -23,8 +23,6 @@ footer: |
 #  - <a rel="me" href="https://mastodon.nz/@kmr">@kmr@mastodon.nz</a>
 ---
 
-<a style="display: none" rel="me" href="https://mastodon.nz/@kmr">@kmr@mastodon.nz</a>
-
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131009466-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -539,3 +537,7 @@ Apr 2018
     "Eukaryotic Genomic Databases : Methods and Protocols" \
     A Lock, K Rutherford,  M.A. Harris, V. Wood \
     *Methods in Molecular Biology. [DOI: 10.1007/978-1-4939-7737-6_4](https://link.springer.com/protocol/10.1007/978-1-4939-7737-6_4)*
+
+<span style="display: none">
+<a rel="me" href="https://mastodon.nz/@kmr">Mastodon</a>
+</span>
