@@ -19,8 +19,9 @@ settings:
 footer: |
   - [kmr.nz](https://kmr.nz)
   - [kimrutherford](https://github.com/kimrutherford)
+  - [@kmr@mastodon.nz](https://mastodon.nz/@kmr)
+  - [ORCID](https://orcid.org/0000-0001-6277-726X)
   - Skype: kim_rutherford
-#  - <a rel="me" href="https://mastodon.nz/@kmr">@kmr@mastodon.nz</a>
 ---
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131009466-1"></script>
