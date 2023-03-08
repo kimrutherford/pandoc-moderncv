@@ -24,13 +24,16 @@ footer: |
   - Skype: kim_rutherford
 ---
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131009466-1"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-55LZDGSCTQ"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'UA-131009466-1');
+
+  gtag('config', 'G-55LZDGSCTQ');
 </script>
+
 
 Profile
 -------
