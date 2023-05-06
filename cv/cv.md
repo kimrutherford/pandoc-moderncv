@@ -138,6 +138,11 @@ Publications
   <span style="display: inline-block"><span style="color: grey;">&#9679;</span> [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=7007171631)</span>
 </div>
 
+March 2023
+:   **The Gene Ontology knowledgebase in 2023** \
+    The Gene Ontology Consortium \
+    *Genetics. [DOI: 10.1093/genetics/iyad031](https://doi.org/10.1093/genetics/iyad031)*
+
 Apr 2022
 :   **JaponicusDB: Rapid deployment of a model organism database for
     an emerging model species** \
