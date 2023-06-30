@@ -82,7 +82,7 @@ Work experience
       ~ bioinformatics support
       ~ genome and transcriptome assembly and analysis
       ~ bioinformatics mentoring and training
-      ~ [tuatara](https://en.wikipedia.org/wiki/Tuatara) [genome project](http://gemmell-lab.otago.ac.nz/research-projects/current-research-projects/1-sequencing-a-living-fossil-the-tuatara-genome-project)
+      ~ [tuatara](https://en.wikipedia.org/wiki/Tuatara) [genome project](https://www.nature.com/articles/s41586-020-2561-9)
 
 <span class="nobr">Feb 2009</span> – <span class="nobr">June 2010</span>
 :    **Computer Associate** *Baulcombe Group* \
