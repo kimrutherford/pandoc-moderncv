@@ -143,6 +143,11 @@ March 2023
     The Gene Ontology Consortium \
     *Genetics. [DOI: 10.1093/genetics/iyad031](https://doi.org/10.1093/genetics/iyad031)*
 
+Dec 2022
+:   **A framework for community curation of interspecies interactions literature** \
+    A. Cuzick, J. Seager, V. Wood, M. Urban, K. Rutherford, K.E. Hammond-Kosack \
+    *bioRxiv preprint. [DOI: 10.1101/2022.12.15.520601](https://doi.org/10.1101/2022.12.15.520601)*
+
 Apr 2022
 :   **JaponicusDB: Rapid deployment of a model organism database for
     an emerging model species** \
