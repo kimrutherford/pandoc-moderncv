@@ -138,15 +138,15 @@ Publications
   <span style="display: inline-block"><span style="color: grey;">&#9679;</span> [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=7007171631)</span>
 </div>
 
+July 2023
+:   **A framework for community curation of interspecies interactions literature** \
+    A. Cuzick, J. Seager, V. Wood, M. Urban, K. Rutherford, K.E. Hammond-Kosack \
+    *eLife. [DOI: 10.7554/eLife.84658](https://doi.org/10.7554/eLife.84658)*
+
 March 2023
 :   **The Gene Ontology knowledgebase in 2023** \
     The Gene Ontology Consortium \
     *Genetics. [DOI: 10.1093/genetics/iyad031](https://doi.org/10.1093/genetics/iyad031)*
-
-Dec 2022
-:   **A framework for community curation of interspecies interactions literature** \
-    A. Cuzick, J. Seager, V. Wood, M. Urban, K. Rutherford, K.E. Hammond-Kosack \
-    *bioRxiv preprint. [DOI: 10.1101/2022.12.15.520601](https://doi.org/10.1101/2022.12.15.520601)*
 
 Apr 2022
 :   **JaponicusDB: Rapid deployment of a model organism database for
