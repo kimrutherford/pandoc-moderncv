@@ -148,18 +148,18 @@ March 2023
     The Gene Ontology Consortium \
     *Genetics. [DOI: 10.1093/genetics/iyad031](https://doi.org/10.1093/genetics/iyad031)*
 
-Apr 2022
+Dec 2021
 :   **JaponicusDB: Rapid deployment of a model organism database for
     an emerging model species** \
     K. Rutherford, M. Harris, S. Oliferenko, V. Wood \
     *Genetics. [DOI: 10.1093/genetics/iyab223](https://doi.org/10.1093/genetics/iyab223)*
 
-Apr 2022
+Dec 2021
 :   **Fission stories: Using PomBase to understand _Schizosaccharomyces pombe_ biology** \
     M. Harris, K. Rutherford, J. Hayles, A. Lock, J. Bähler, S. Oliver, J. Mata, V. Wood \
     *Genetics. [DOI: 10.1093/genetics/iyab222](https://doi.org/10.1093/genetics/iyab222)*
 
-Jan 2022
+Nov 2021
 :   **PHI-base in 2022: a multi-species phenotype database for Pathogen-Host Interactions** \
     M. Urban *et al.* \
     *NAR [DOI: 10.1093/nar/gkab1037](https://doi.org/10.1093/nar/gkab1037)*
