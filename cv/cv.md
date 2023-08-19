@@ -164,17 +164,17 @@ Jan 2022
     M. Urban *et al.* \
     *NAR [DOI: 10.1093/nar/gkab1037](https://doi.org/10.1093/nar/gkab1037)*
 
-Feb 2021
+Dec 2020
+:   **The Gene Ontology resource: enriching a GOld mine** \
+    The Gene Ontology Consortium \
+    *Nucleic Acids Research. [DOI: 10.1093/nar/gkaa1113](https://doi.org/10.1093/nar/gkaa1113)*
+
+Dec 2020
 :   **A genome-wide investigation of adaptive signatures in
     protein-coding genes related to tool behaviour in New Caledonian
     and Hawaiian crows** \
     N. Dussex *et al.* \
     *Molecular Ecology. [DOI: 10.1111/mec.15775](https://doi.org/10.1111/mec.15775)*
-
-Jan 2021
-:   **The Gene Ontology resource: enriching a GOld mine** \
-    The Gene Ontology Consortium \
-    *Nucleic Acids Research. [DOI: 10.1093/nar/gkaa1113](https://doi.org/10.1093/nar/gkaa1113)*
 
 Nov 2020
 :   **Dense sampling of bird diversity increases power of comparative
@@ -205,27 +205,14 @@ Apr 2020
     A. Lock, M. Harris, K. Rutherford, J. Hayles, V. Wood \
     *Database. [DOI: 10.1093/database/baaa028](https://doi.org/10.1093/database/baaa028)*
 
-Jan 2020
+Nov 2019
 :   **PHI-base: the pathogen–host interactions database** \
     M. Urban, A. Cuzick, J. Seager, V. Wood, K. Rutherford, S. Yagwakote Venkatesh,
     N. De Silva, M. Carbajo Martinez, H. Pedro, A.D. Yates, K. Hassani-Pak,
     K.E. Hammond-Kosack \
     *Nucleic Acids Research. [DOI: 10.1093/nar/gkz904](https://doi.org/10.1093/nar/gkz904)*
 
-Mar 2019
-:   **Molecular structure of sauropsid β-keratins from tuatara (_Sphenodon punctatus_)** \
-    D. Parry, R. Fraser, L. Alibardi, K. Rutherford, N. Gemmell \
-    *Journal of Structural Biology. [DOI: 10.1016/j.jsb.2019.04.008](https://doi.org/10.1016/j.jsb.2019.04.008)*
-
-Jan 2019
-:   **PomBase 2018: user-driven reimplementation of the fission yeast
-    database provides rapid and intuitive access to diverse,
-    interconnected information** \
-    A. Lock, K. Rutherford, M.A. Harris, J Hayles, S.G. Oliver, J. Bähler,
-    V. Wood \
-    *Nucleic Acids Research. [DOI: 10.1093/nar/gky961](https://doi.org/10.1093/nar/gky961)*
-
-Dec 2018
+July 2019
 :   **Stress, novel sex genes and epigenetic reprogramming orchestrate
     socially-controlled sex change** \
     E.V. Todd, O. Ortega-Recalde, H. Liu, M.S. Lamm, K.M. Rutherford,
@@ -233,16 +220,29 @@ Dec 2018
     J.R. Godwin, N.J. Gemmell \
     *Science Advances. [DOI: 10.1126/sciadv.aaw7006](https://doi.org/10.1126/sciadv.aaw7006)*
 
-Nov 2018
+July 2019
+:   **Molecular structure of sauropsid β-keratins from tuatara (_Sphenodon punctatus_)** \
+    D. Parry, R. Fraser, L. Alibardi, K. Rutherford, N. Gemmell \
+    *Journal of Structural Biology. [DOI: 10.1016/j.jsb.2019.04.008](https://doi.org/10.1016/j.jsb.2019.04.008)*
+
+Feb 2019
 :   **Hidden in plain sight: What remains to be discovered in the
     eukaryotic proteome?** \
     V. Wood, A. Lock, M. Harris, K. Rutherford, J. Bahler, S Oliver \
     *Open Biology. [DOI: 10.1098/rsob.180241](https://royalsocietypublishing.org/doi/full/10.1098/rsob.180241)*
 
-Oct 2018
+Nov 2018
 :   **RNAcentral: a hub of information for non-coding RNA sequences** \
     The RNAcentral Constortium \
     *Nucleic Acids Research.  [DOI: 10.1093/nar/gky1034](https://doi.org/10.1093/nar/gky1034)*
+
+Oct 2018
+:   **PomBase 2018: user-driven reimplementation of the fission yeast
+    database provides rapid and intuitive access to diverse,
+    interconnected information** \
+    A. Lock, K. Rutherford, M.A. Harris, J Hayles, S.G. Oliver, J. Bähler,
+    V. Wood \
+    *Nucleic Acids Research. [DOI: 10.1093/nar/gky961](https://doi.org/10.1093/nar/gky961)*
 
 Oct 2018
 :   **The Gene Ontology Resource: 20 years and still GOing strong** \
@@ -546,7 +546,7 @@ Feb 2000
 Book Chapters
 -------------
 
-Apr 2018
+May 2018
 :   **PomBase: The Scientific Resource for Fission Yeast** \
     "Eukaryotic Genomic Databases : Methods and Protocols" \
     A Lock, K Rutherford,  M.A. Harris, V. Wood \
