@@ -38,7 +38,7 @@ footer: |
 Profile
 -------
 
-I am a software developer and bioinformatician.  For the last 20 years I have
+I am a software developer and bioinformatician.  For the last 25 years I have
 been helping biologists to capture, analyse and interpret genomic data.
 
 Skills and Experience
