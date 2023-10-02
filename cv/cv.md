@@ -138,6 +138,13 @@ Publications
   <span style="display: inline-block"><span style="color: grey;">&#9679;</span> [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=7007171631)</span>
 </div>
 
+Oct 2023
+:   **Revised fission yeast gene and allele nomenclature guidelines for machine readability** \
+    M. Lera-Ramírez, J. Bähler, J. Mata, K. Rutherford, C.S. Hoffman,
+    S. Lambert, S. Oliferenko, S.G. Martin, K.L. Gould, L-L. Du,
+    S.A. Sabatinos, S.L. Forsburg, O. Nielsen, P. Nurse, V. Wood \
+    *GENETICS, iyad143 [DOI: 10.1093/genetics/iyad143](https://doi.org/10.1093/genetics/iyad143)*
+
 July 2023
 :   **A framework for community curation of interspecies interactions literature** \
     A. Cuzick, J. Seager, V. Wood, M. Urban, K. Rutherford, K.E. Hammond-Kosack \
