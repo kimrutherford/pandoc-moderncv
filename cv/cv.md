@@ -60,7 +60,8 @@ Work experience
      Department of Biochemistry, University of Cambridge
 
     Tasks
-      ~ web and database programming
+      ~ full stack development
+      ~ bioinformatics support
       ~ system administration
 
     Major projects
