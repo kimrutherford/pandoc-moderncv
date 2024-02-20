@@ -139,10 +139,10 @@ Publications
   <span style="display: inline-block"><span style="color: grey;">&#9679;</span> [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=7007171631)</span>
 </div>
 
-Jan 2024
+Feb 2024
 :   **PomBase, A Global Core Biodata Resource: Growth, Collaboration and Sustainability** \
     K.M. Rutherford, M. Lera-Ramírez, V. Wood \
-    *GENETICS, in press*
+    *GENETICS, iyae007 [DOI: 10.1093/genetics/iyae007](https://doi.org/10.1093/genetics/iyae007)*
 
 Oct 2023
 :   **Revised fission yeast gene and allele nomenclature guidelines for machine readability** \
