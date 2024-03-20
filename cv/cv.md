@@ -142,14 +142,14 @@ Publications
 Feb 2024
 :   **PomBase: a Global Core Biodata Resource --- growth, collaboration, and sustainability** \
     K.M. Rutherford, M. Lera-Ramírez, V. Wood \
-    *GENETICS, iyae007 [DOI: 10.1093/genetics/iyae007](https://doi.org/10.1093/genetics/iyae007)*
+    *Genetics, iyae007 [DOI: 10.1093/genetics/iyae007](https://doi.org/10.1093/genetics/iyae007)*
 
 Oct 2023
 :   **Revised fission yeast gene and allele nomenclature guidelines for machine readability** \
     M. Lera-Ramírez, J. Bähler, J. Mata, K. Rutherford, C.S. Hoffman,
     S. Lambert, S. Oliferenko, S.G. Martin, K.L. Gould, L-L. Du,
     S.A. Sabatinos, S.L. Forsburg, O. Nielsen, P. Nurse, V. Wood \
-    *GENETICS, iyad143 [DOI: 10.1093/genetics/iyad143](https://doi.org/10.1093/genetics/iyad143)*
+    *Genetics, iyad143 [DOI: 10.1093/genetics/iyad143](https://doi.org/10.1093/genetics/iyad143)*
 
 July 2023
 :   **A framework for community curation of interspecies interactions literature** \
@@ -159,18 +159,18 @@ July 2023
 March 2023
 :   **The Gene Ontology knowledgebase in 2023** \
     The Gene Ontology Consortium \
-    *GENETICS. [DOI: 10.1093/genetics/iyad031](https://doi.org/10.1093/genetics/iyad031)*
+    *Genetics. [DOI: 10.1093/genetics/iyad031](https://doi.org/10.1093/genetics/iyad031)*
 
 Dec 2021
 :   **JaponicusDB: Rapid deployment of a model organism database for
     an emerging model species** \
     K. Rutherford, M. Harris, S. Oliferenko, V. Wood \
-    *GENETICS. [DOI: 10.1093/genetics/iyab223](https://doi.org/10.1093/genetics/iyab223)*
+    *Genetics. [DOI: 10.1093/genetics/iyab223](https://doi.org/10.1093/genetics/iyab223)*
 
 Dec 2021
 :   **Fission stories: Using PomBase to understand _Schizosaccharomyces pombe_ biology** \
     M. Harris, K. Rutherford, J. Hayles, A. Lock, J. Bähler, S. Oliver, J. Mata, V. Wood \
-    *GENETICS. [DOI: 10.1093/genetics/iyab222](https://doi.org/10.1093/genetics/iyab222)*
+    *Genetics. [DOI: 10.1093/genetics/iyab222](https://doi.org/10.1093/genetics/iyab222)*
 
 Nov 2021
 :   **PHI-base in 2022: a multi-species phenotype database for Pathogen-Host Interactions** \
