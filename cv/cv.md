@@ -140,7 +140,7 @@ Publications
 </div>
 
 Feb 2024
-:   **PomBase, A Global Core Biodata Resource: Growth, Collaboration and Sustainability** \
+:   **PomBase: a Global Core Biodata Resource --- growth, collaboration, and sustainability** \
     K.M. Rutherford, M. Lera-Ramírez, V. Wood \
     *GENETICS, iyae007 [DOI: 10.1093/genetics/iyae007](https://doi.org/10.1093/genetics/iyae007)*
 
