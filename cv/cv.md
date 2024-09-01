@@ -71,7 +71,7 @@ Work experience
 
     Secondments
       ~ FlyBase - 3 months customising
-        [Canto](https://curation.pombase.org) for drosophila phenotypes
+        [Canto](https://curation.pombase.org) for *Drosophila* phenotypes
       ~ PHI-base - 6 months adapting Canto for pathogen-host
         interaction phenotype curation
 
