@@ -1,0 +1,117 @@
+---
+lang: en
+title: 
+title-prefix: Kim Rutherford
+firstname: CV for Kim
+lastname: Rutherford
+settings:
+  protect-email: false
+  protect-mobile: true
+  protect-phone: true
+  protect-fax: true
+  protect-homepage: false
+footer: |
+  - [kmr.bioinformatics.nz](https://kmr.bioinformatics.nz)
+---
+
+Skills and Experience
+---------------------
+
+* Software development: web, desktop and server
+* Database administration and maintenance
+* Genome assembly, annotation and analysis
+* Processing, management and analysis of next generation sequencing data
+* Systems administration including software and database installation and
+  configuration
+
+Work experience
+---------------
+
+
+June 2010 – Present
+:    **Programmer** *Schizosaccharomyces pombe genome database (PomBase)* \
+     Department of Biochemistry, University of Cambridge
+
+    Tasks
+      ~ web and database programming
+      ~ system administration for curation.pombase.org
+
+    Major projects
+      ~ Canto - a community curation tool
+      ~ PomBase version 2
+
+Sept 2012 – Dec 2016
+:    **Scientific Officer** (part time) *Gemmell lab* \
+     Department of Anatomy, University of Otago, New Zealand
+
+    Tasks
+      ~ bioinformatics support for the group
+      ~ genome and transcriptome assembly and analysis
+      ~ mentoring / training of group members in bioinformatics
+      ~ tuatara genome project
+
+Feb 2009 – June 2010
+:    **Computer Associate** *Baulcombe Group* \
+     Department of Plant Sciences, University of Cambridge
+
+    Tasks
+      ~ bioinformatics support
+      ~ creation of a short read analysis pipeline
+
+Sept 2007 – Feb 2009
+:    **Programmer** *modENCODE Data Coordination Center* \
+     Cambridge Systems Biology Centre
+
+    Tasks
+      ~ helped create the data warehouse for the modENCODE project: modMine
+
+Feb 2004 – Sept 2007
+:    **Programmer** *FlyMine/InterMine group* \
+     Department of Genetics, University of Cambridge
+
+    Tasks
+      ~ Java programming for the InterMine project
+
+Sept 1998 – Feb 2004
+:    **Principal Computer Programmer** *Pathogen Sequencing Unit* \
+     The Sanger Institute
+
+    Tasks
+      ~ programming and bioinformatics support
+
+    Major projects
+      ~ Artemis - a genome analysis and annotation tool
+      ~ ACT - a genome comparison viewer
+
+Academic qualifications
+-------------
+1993 BSc (hons) Victoria University, Wellington, New Zealand
+
+Relavent publications in the last 5 years
+------------
+
+Feb 2014
+:    **Canto: An online tool for community literature curation** \
+     K. Rutherford, M. A. Harris, A. Lock, S. G. Oliver and V. Wood \
+     *Bioinformatics (2014) doi: 10.1093/bioinformatics/btu103*
+
+June 2014
+:    **Improving functional annotation for industrial microbes: A case study with _Pichia pastoris_** \
+     D. Dikicioglu, V. Wood, K. Rutherford, M. McDowall, S. Oliver \
+     *Trends in Biotechnology (2014) 10.1016/j.tibtech.2014.05.003*
+
+Jan 2017
+:   **PHI-base: A new interface and further additions for the multi-species
+    pathogen-host interactions database.** \
+    Urban, M., Alayne Cuzick, A., Rutherford, K., Irvine, A., Pedro, H., Pant,
+    R., Sadanadan, V., Khamari, L., Billal, S., Mohanty S.,
+    and. Hammond-Kosack, K.E. \
+    *Nucleic Acids Research (2017) doi: 10.1093/nar/gkw1089*
+
+Oct 2018
+:   **PomBase 2018: user-driven reimplementation of the fission yeast
+    database provides rapid and intuitive access to diverse,
+    interconnected information** \
+    A. Lock, K. Rutherford, M.A. Harris, J Hayles, S.G. Oliver, J. Bähler,
+    V. Wood \
+    *Nucleic Acids Research. https://doi.org/10.1093/nar/gky961*
