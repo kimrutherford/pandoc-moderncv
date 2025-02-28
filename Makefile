@@ -28,7 +28,7 @@ endif
 # after-body contains all parts but public and private
 after-body = $(filter-out $(BUILD_DIR)/public.html $(BUILD_DIR)/private.html, $(PARTS))
 
-.PHONY: all directories media style parts html pdf clean
+.PHONY: all directories media parts html pdf clean
 
 # default target is build CV in html
 all: html
@@ -49,23 +49,13 @@ else
 	@echo $(SRC_DIR) already exists!;
 endif
 
-# Target for building stylesheets
-style: stylesheets/*.scss
-	compass compile \
-	  --require susy \
-	  --sass-dir stylesheets \
-	  --javascripts-dir javascripts \
-	  --css-dir $(DIST_DIR)/stylesheets \
-	  --image-dir $(IMAGES_DIR) \
-	  stylesheets/style.scss
-
 # Target for media
 media: | directories
 	rsync -rupE $(FONTS_DIR) $(DIST_DIR)
 	rsync -rupE $(IMAGES_DIR) $(DIST_DIR)
 
 # Target for building CV document in html
-html: media style templates/cv.html parts $(SRC_DIR)/cv.md | directories
+html: media templates/cv.html parts $(SRC_DIR)/cv.md | directories
 	pandoc --standalone \
 	  --section-divs \
 	  --template templates/cv.html \
