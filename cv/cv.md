@@ -2,6 +2,7 @@
 lang: en
 title: Software Development and Bioinformatics
 title-prefix: Kim Rutherford
+author: Kim Rutherford
 firstname: Kim
 lastname: Rutherford
 homepage: https://kmr.nz
@@ -16,6 +17,8 @@ settings:
   protect-phone: true
   protect-fax: true
   protect-homepage: false
+header-includes:
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
 footer: |
   - [kmr.nz](https://kmr.nz)
   - [kimrutherford](https://github.com/kimrutherford)
