@@ -139,6 +139,11 @@ Publications
   <span style="display: inline-block"><span style="color: grey;">&#9679;</span> [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=7007171631)</span>
 </div>
 
+Feb 2025
+:   **A compendium of human gene functions derived from evolutionary modelling** \
+    The Gene Ontology Consortium \
+    *Nature (2025)* [DOI: 10.1038/s41586-025-08592-0](https://doi.org/10.1038/s41586-025-08592-0)*
+
 Feb 2024
 :   **PomBase: a Global Core Biodata Resource --- growth, collaboration, and sustainability** \
     K.M. Rutherford, M. Lera-Ramírez, V. Wood \
