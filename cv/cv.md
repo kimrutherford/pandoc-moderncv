@@ -142,6 +142,11 @@ Publications
   <span style="display: inline-block"><span style="color: grey;">&#9679;</span> [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=7007171631)</span>
 </div>
 
+Oct 2025
+:   **RNAcentral in 2026: Genes and literature integration** \
+    A.F. Green *et al.* \
+    *preprint [DOI: 10.1101/2025.09.19.677274](https://doi.org/10.1101/2025.09.19.677274)*
+
 Feb 2025
 :   **A compendium of human gene functions derived from evolutionary modelling** \
     The Gene Ontology Consortium \
